@@ -868,17 +868,10 @@
     "en": null
   },
   "el (1)": {
-    "bisiac": "el (1)",
-    "it": ["Il"],
+    "bisiac": "el",
+    "it": ["Il","Egli", "Lui"],
     "pos": "art. det. m. sing.",
     "definizione_completa": "Il.",
-    "en": null
-  },
-  "el (2)": {
-    "bisiac": "el (2)",
-    "it": ["Egli", "Lui"],
-    "pos": "pron. pers. m. di terza pers. sing.",
-    "definizione_completa": "Egli: el se ga fato i cavei viola.",
     "en": null
   },
   "éssar": {
@@ -3431,7 +3424,7 @@
   },
   "verser": {
     "bisiac": "verser",
-    "it": ["Aprire"],
+    "it": ["Aprire", "Apri", "te apri"],
     "pos": "v. tr. (part. pass. verto)",
     "definizione_completa": "Aprire",
     "en": null
@@ -3731,8 +3724,8 @@
     "en": null
   },
   "questa": {
-    "bisiac": "sta",
-    "it": ["questa"],
+    "bisiac": "sta qua",
+    "it": ["questa", "questa qua", "qua"],
     "pos": "agg./pron. dim.",
     "definizione_completa": "Dimostrativo 'questa'.",
     "en": null
