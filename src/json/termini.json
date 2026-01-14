@@ -1,0 +1,4244 @@
+{
+  "àio": {
+    "bisiac": "àio",
+    "it": ["Aglio"],
+    "pos": "s. m.",
+    "definizione_completa": "Aglio.",
+    "en": null
+  },
+  "anca": {
+    "bisiac": "anca",
+    "it": ["Anche"],
+    "pos": "cong.",
+    "definizione_completa": "Anche.",
+    "en": null
+  },
+  "angusìgul": {
+    "bisiac": "angusìgul",
+    "it": ["Aguglia"],
+    "pos": "s. m.",
+    "definizione_completa": "Aguglia.",
+    "en": null
+  },
+  "arcàso": {
+    "bisiac": "arcàso",
+    "it": ["Acacia"],
+    "pos": "s. m.",
+    "definizione_completa": "Acacia.",
+    "en": null
+  },
+  "armeròn": {
+    "bisiac": "armeròn o armaròn o armài",
+    "it": ["Armadio"],
+    "pos": "s. m. (pl. -ni)",
+    "definizione_completa": "Armadio.",
+    "en": null
+  },
+  "baba": {
+    "bisiac": "baba",
+    "it": ["Donna pettegola", "chiaccherona", "comare", "donna", "sposa", "moglie"],
+    "pos": "s. f.",
+    "definizione_completa": "1 (spreg.) Donna pettegola e chiaccherona, comare. 2 (est.) Persona di sesso femminile 3 (spec. preceduto dall'agg. poss.) Sposa, moglie, donna amata: la me b.",
+    "en": null
+  },
+  "babés": {
+    "bisiac": "babés",
+    "it": ["Pettegolezzo"],
+    "pos": "s. m.",
+    "definizione_completa": "[da baba] Pettegolezzo.",
+    "en": null
+  },
+  "bacùc": {
+    "bisiac": "bacùc",
+    "it": ["Rimbambito"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "Rimbambito.",
+    "en": null
+  },
+  "bagolarsela": {
+    "bisiac": "bagolarsela",
+    "it": ["Perdere tempo", "Passare il tempo"],
+    "pos": "v. tr. pron.",
+    "definizione_completa": "Passare il tempo senza fare nulla di utile.",
+    "en": null
+  },
+  "baiàr": {
+    "bisiac": "baiàr",
+    "it": ["Abbaiare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Abbaiare.",
+    "en": null
+  },
+  "bala": {
+    "bisiac": "bala",
+    "it": ["Palla", "Sbornia"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Palla. 2 Sbornia.",
+    "en": null
+  },
+  "balòn": {
+    "bisiac": "balòn",
+    "it": ["Pallone"],
+    "pos": "s. m.",
+    "definizione_completa": "Pallone.",
+    "en": null
+  },
+  "balonèr": {
+    "bisiac": "balonèr",
+    "it": ["Calciatore"],
+    "pos": "s. m. (f. -ra)",
+    "definizione_completa": "Calciatore.",
+    "en": null
+  },
+  "baracocul": {
+    "bisiac": "baracocul",
+    "it": ["Pesca noce"],
+    "pos": "s. m.",
+    "definizione_completa": "Pesca noce.",
+    "en": null
+  },
+  "basilàr": {
+    "bisiac": "basilàr",
+    "it": ["Spendere tempo"],
+    "pos": "v. intr.",
+    "definizione_completa": "Spendere tempo: go basilà tuto il giorno con sta roba.",
+    "en": null
+  },
+  "basuàl": {
+    "bisiac": "basuàl",
+    "it": ["Sciocco"],
+    "pos": "s. m.",
+    "definizione_completa": "Sciocco.",
+    "en": null
+  },
+  "batòc": {
+    "bisiac": "batòc",
+    "it": ["Batacchio", "Stolto", "Stupidotto"],
+    "pos": "s. m.",
+    "definizione_completa": "1 Batacchio della campana. 2 Persona stolta, stupidotto.",
+    "en": null
+  },
+  "becàr": {
+    "bisiac": "becàr",
+    "it": ["Beccare", "Incontrare", "Beccarsi", "Incontrarsi"],
+    "pos": "v. tr.",
+    "definizione_completa": "A v. tr. 1 Beccare. 2 Incontrare: Lo go becado per strada. B v. rifl. rec. 1 Beccarsi. 2 Incontrarsi.",
+    "en": null
+  },
+  "bech": {
+    "bisiac": "bech",
+    "it": [],
+    "pos": "s. m.",
+    "definizione_completa": "?.",
+    "en": null
+  },
+  "bechér": {
+    "bisiac": "bechér",
+    "it": ["Macellaio"],
+    "pos": "s. m.",
+    "definizione_completa": "Macellaio.",
+    "en": null
+  },
+  "becòn": {
+    "bisiac": "becòn",
+    "it": ["Puntura di insetto"],
+    "pos": "s. m.",
+    "definizione_completa": "[da becar] Puntura di insetto.",
+    "en": null
+  },
+  "bever": {
+    "bisiac": "bever",
+    "it": ["Bere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Bere.",
+    "en": null
+  },
+  "bez": {
+    "bisiac": "bez",
+    "it": ["Soldo"],
+    "pos": "s. m.",
+    "definizione_completa": "Soldo.",
+    "en": null
+  },
+  "biava": {
+    "bisiac": "biava",
+    "it": ["Granturco"],
+    "pos": "s. f.",
+    "definizione_completa": "Insieme di chicchi di granturco.",
+    "en": null
+  },
+  "bicèr": {
+    "bisiac": "bicèr",
+    "it": ["Bicchiere"],
+    "pos": "s. m.",
+    "definizione_completa": "Bicchiere.",
+    "en": null
+  },
+  "bièc": {
+    "bisiac": "bièc",
+    "it": ["Toppa", "Cerotto"],
+    "pos": "s. m.",
+    "definizione_completa": "Toppa, cerotto.",
+    "en": null
+  },
+  "bìgolo": {
+    "bisiac": "bìgolo o bìgul",
+    "it": ["Pasta", "Spaghetto", "Pene"],
+    "pos": "s. m.",
+    "definizione_completa": "1 Pasta alimentare a forma di vermicello: i bigoli con le luganighe. 2 (pop.) Pene.",
+    "en": null
+  },
+  "bilìta": {
+    "bisiac": "bilìta",
+    "it": ["Donnola"],
+    "pos": "s. f.",
+    "definizione_completa": "Donnola.",
+    "en": null
+  },
+  "bisàt": {
+    "bisiac": "bisàt",
+    "it": ["Anguilla"],
+    "pos": "s. m.",
+    "definizione_completa": "Anguilla.",
+    "en": null
+  },
+  "bisiàc": {
+    "bisiac": "bisiàc",
+    "it": ["Della Bisiacaria", "Abitante della Bisiacaria", "Dialetto Bisiacco"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "A agg. Della Bisiacaria. B s. m. Abitante della Bisiacaria. C s. m. solo sing. Dialetto parlato in Bisiacaria.",
+    "en": null
+  },
+  "biso": {
+    "bisiac": "biso",
+    "it": ["Pisello"],
+    "pos": "s. m.",
+    "definizione_completa": "Legume del pisello.",
+    "en": null
+  },
+  "bit": {
+    "bisiac": "bit",
+    "it": ["Pene"],
+    "pos": "s. m. sing.",
+    "definizione_completa": "Il proprio pene.",
+    "en": null
+  },
+  "bleda": {
+    "bisiac": "bleda",
+    "it": ["Bietola"],
+    "pos": "s. f.",
+    "definizione_completa": "Bietola.",
+    "en": null
+  },
+  "bobolàr": {
+    "bisiac": "bobolàr o bobolèr",
+    "it": ["Bagolaro"],
+    "pos": "s. m.",
+    "definizione_completa": "Bagolaro.",
+    "en": null
+  },
+  "bocòn (1)": {
+    "bisiac": "bocòn (1)",
+    "it": ["Boccone"],
+    "pos": "s. m.",
+    "definizione_completa": "Boccone.",
+    "en": null
+  },
+  "bocòn (2)": {
+    "bisiac": "bocòn (2)",
+    "it": ["Grande"],
+    "pos": "agg.",
+    "definizione_completa": "Grande. || boconòn, accr.",
+    "en": null
+  },
+  "bòfice": {
+    "bisiac": "bòfice",
+    "it": ["Sedere"],
+    "pos": "s. m.",
+    "definizione_completa": "Sedere.",
+    "en": null
+  },
+  "boro": {
+    "bisiac": "boro",
+    "it": ["Soldo"],
+    "pos": "s. m.",
+    "definizione_completa": "Soldo: no val un b.",
+    "en": null
+  },
+  "botegher": {
+    "bisiac": "botegher",
+    "it": ["Bottegaio", "Negoziante"],
+    "pos": "s. m. (f. -ra)",
+    "definizione_completa": "Bottegaio, negoziante.",
+    "en": null
+  },
+  "braga": {
+    "bisiac": "braga",
+    "it": ["Calzone", "Pantalone"],
+    "pos": "s. f. (spec. al pl.)",
+    "definizione_completa": "Calzone || braghesini, dim. pl.",
+    "en": null
+  },
+  "braghesìni": {
+    "bisiac": "braghesìni",
+    "it": ["Calzoni corti"],
+    "pos": "s. m. pl.",
+    "definizione_completa": "Calzoni corti.",
+    "en": null
+  },
+  "bras": {
+    "bisiac": "bras",
+    "it": ["Braccio"],
+    "pos": "s. m. (pl. brassi)",
+    "definizione_completa": "Braccio.",
+    "en": null
+  },
+  "brincàr": {
+    "bisiac": "brincàr",
+    "it": ["Cogliere sul fatto", "Catturare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Cogliere sul fatto, catturare.",
+    "en": null
+  },
+  "brìtula": {
+    "bisiac": "brìtula",
+    "it": ["Coltello a serramanico"],
+    "pos": "s. f.",
+    "definizione_completa": "Coltello a serramanico usato in agricoltura.",
+    "en": null
+  },
+  "bronsa": {
+    "bisiac": "bronsa",
+    "it": ["Brace"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Brace | b. coverta: persona timida o calma solo all'apparenza. 2 La parte accesa della sigaretta.",
+    "en": null
+  },
+  "brusàr": {
+    "bisiac": "brusàr",
+    "it": ["Bruciare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Bruciare.",
+    "en": null
+  },
+  "brustulàr": {
+    "bisiac": "brustulàr",
+    "it": ["Bruciacchiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Bruciacchiare.",
+    "en": null
+  },
+  "bucàl": {
+    "bisiac": "bucàl",
+    "it": ["Orinale", "Vaso da notte"],
+    "pos": "s. m.",
+    "definizione_completa": "Orinale | cagar fora del b., esagerare.",
+    "en": null
+  },
+  "bugnìgolo": {
+    "bisiac": "bugnìgolo o bugnìgul",
+    "it": ["Ombelico"],
+    "pos": "s. m.",
+    "definizione_completa": "Ombelico.",
+    "en": null
+  },
+  "cabìbo": {
+    "bisiac": "cabìbo",
+    "it": ["Terrone"],
+    "pos": "s. m. (f. -a)",
+    "definizione_completa": "Terrone, nativo dell'Italia meridionale.",
+    "en": null
+  },
+  "cagoia": {
+    "bisiac": "cagoia",
+    "it": ["Lumaca"],
+    "pos": "s. f.",
+    "definizione_completa": "Lumaca.",
+    "en": null
+  },
+  "caìa": {
+    "bisiac": "caìa",
+    "it": ["Tirchio", "Avaro"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "Tirchio.",
+    "en": null
+  },
+  "calàr": {
+    "bisiac": "calàr",
+    "it": ["Svergognare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Svergognare.",
+    "en": null
+  },
+  "caligher": {
+    "bisiac": "caligher",
+    "it": ["Calzolaio"],
+    "pos": "s. m.",
+    "definizione_completa": "Calzolaio.",
+    "en": null
+  },
+  "camòma": {
+    "bisiac": "camòma",
+    "it": ["Persona lenta", "Cosa lenta"],
+    "pos": "s. f.",
+    "definizione_completa": "Persona o cosa lenta nel muoversi.",
+    "en": null
+  },
+  "canon": {
+    "bisiac": "canon",
+    "it": ["Cannone", "Prigione"],
+    "pos": "s. m.",
+    "definizione_completa": "Cannone | in c., in prigione.",
+    "en": null
+  },
+  "capel": {
+    "bisiac": "capel",
+    "it": ["Cappello"],
+    "pos": "s. m. (pl. capei)",
+    "definizione_completa": "Cappello.",
+    "en": null
+  },
+  "capùsso": {
+    "bisiac": "capùsso",
+    "it": ["Cavolo cappuccio"],
+    "pos": "s. m.",
+    "definizione_completa": "Cavolo cappuccio.",
+    "en": null
+  },
+  "carega": {
+    "bisiac": "carega",
+    "it": ["Sedia"],
+    "pos": "s. f.",
+    "definizione_completa": "Sedia.",
+    "en": null
+  },
+  "cavel": {
+    "bisiac": "cavel",
+    "it": ["Capello"],
+    "pos": "s. m. (pl. -vei)",
+    "definizione_completa": "Capello.",
+    "en": null
+  },
+  "cavelada": {
+    "bisiac": "cavelada",
+    "it": ["Capigliatura"],
+    "pos": "s. f.",
+    "definizione_completa": "Capigliatura.",
+    "en": null
+  },
+  "cavìcia": {
+    "bisiac": "cavìcia",
+    "it": ["Caviglia"],
+    "pos": "s. f.",
+    "definizione_completa": "Caviglia.",
+    "en": null
+  },
+  "cavra": {
+    "bisiac": "cavra",
+    "it": ["Capra"],
+    "pos": "s. f.",
+    "definizione_completa": "Capra.",
+    "en": null
+  },
+  "cavro": {
+    "bisiac": "cavro",
+    "it": ["Capro"],
+    "pos": "s. m.",
+    "definizione_completa": "Capro. || cavron, accr.",
+    "en": null
+  },
+  "cesa": {
+    "bisiac": "cesa",
+    "it": ["Chiesa"],
+    "pos": "s. f.",
+    "definizione_completa": "Chiesa.",
+    "en": null
+  },
+  "cheba": {
+    "bisiac": "cheba",
+    "it": ["Gabbia"],
+    "pos": "s. f.",
+    "definizione_completa": "Gabbia.",
+    "en": null
+  },
+  "ciàcola": {
+    "bisiac": "ciàcola",
+    "it": ["Chiacchiera", "Conversazione futile"],
+    "pos": "s. f. (spec. al pl.)",
+    "definizione_completa": "Chiacchera, discorso o conversazione futile.",
+    "en": null
+  },
+  "ciacolàr": {
+    "bisiac": "ciacolàr",
+    "it": ["Chiaccherare", "Discorrere", "Parlare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Chiaccherare, discorrere, parlare.",
+    "en": null
+  },
+  "ciamàr": {
+    "bisiac": "ciamàr",
+    "it": ["Chiamare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Chiamare.",
+    "en": null
+  },
+  "ciapàr": {
+    "bisiac": "ciapàr",
+    "it": ["Acchiappare", "Prendere"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Acchiappare. 2 (est.) Prendere: c. el rafredor.",
+    "en": null
+  },
+  "ciapìn": {
+    "bisiac": "ciapìn",
+    "it": ["Molletta"],
+    "pos": "s. m.",
+    "definizione_completa": "Molletta.",
+    "en": null
+  },
+  "ciavàr": {
+    "bisiac": "ciavàr",
+    "it": ["Importare", "Fregare", "Rubare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Importare, fregare: non me ciava. 2 Fregare, rubare: i me ga ciava' la machina.",
+    "en": null
+  },
+  "ciàve": {
+    "bisiac": "ciàve",
+    "it": ["Chiave"],
+    "pos": "s. f.",
+    "definizione_completa": "Chiave.",
+    "en": null
+  },
+  "cicariòl": {
+    "bisiac": "cicariòl",
+    "it": ["Posacenere"],
+    "pos": "s. m.",
+    "definizione_completa": "Posacenere.",
+    "en": null
+  },
+  "cicca": {
+    "bisiac": "cicca",
+    "it": ["Cicca", "Sigaretta", "Chewing-gum"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Cicca. 2 Sigaretta. 3 Chewing-gum.",
+    "en": null
+  },
+  "cìchera": {
+    "bisiac": "cìchera",
+    "it": ["Tazza"],
+    "pos": "s. f.",
+    "definizione_completa": "Tazza.",
+    "en": null
+  },
+  "cine": {
+    "bisiac": "cine",
+    "it": ["Cinema", "Confusione"],
+    "pos": "s. m. inv.",
+    "definizione_completa": "1 Cinema. 2 Confusione.",
+    "en": null
+  },
+  "ciòcca": {
+    "bisiac": "ciòcca",
+    "it": ["Sbornia"],
+    "pos": "s. f.",
+    "definizione_completa": "Sbornia.",
+    "en": null
+  },
+  "ciòc": {
+    "bisiac": "ciòc o ciòco",
+    "it": ["Ubriaco"],
+    "pos": "agg.",
+    "definizione_completa": "Ubriaco.",
+    "en": null
+  },
+  "ciòr": {
+    "bisiac": "ciòr",
+    "it": ["Prendere", "Raccogliere"],
+    "pos": "v. tr.",
+    "definizione_completa": "(pres. mi ciogo, ti te ciol, lui el ciol, noi ciolemo, voi ciolè, lori i ciol; imper. mi ciolevo; fut. mi ciolerò; congv.imper. mi ciolessi; imper. ciol, ciolè; part. pass. ciolto) Prendere | c. su, raccogliere.",
+    "en": null
+  },
+  "cistàr": {
+    "bisiac": "cistàr",
+    "it": ["Rubare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Rubare.",
+    "en": null
+  },
+  "ciuciàr": {
+    "bisiac": "ciuciàr",
+    "it": ["Succhiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Succhiare.",
+    "en": null
+  },
+  "clanfa": {
+    "bisiac": "clanfa",
+    "it": ["Zanca", "Tuffo"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Zanca. 2 Particolare tipo di tuffo.",
+    "en": null
+  },
+  "cocàl": {
+    "bisiac": "cocàl",
+    "it": ["Gabbiano", "Stupido"],
+    "pos": "s. m.",
+    "definizione_completa": "V. crocàl.",
+    "en": null
+  },
+  "cocòn": {
+    "bisiac": "cocòn",
+    "it": ["Chignon"],
+    "pos": "s. m.",
+    "definizione_completa": "Chignon.",
+    "en": null
+  },
+  "cofe": {
+    "bisiac": "cofe",
+    "it": ["Stupido"],
+    "pos": "agg.",
+    "definizione_completa": "Stupido.",
+    "en": null
+  },
+  "cognóssar": {
+    "bisiac": "cognóssar",
+    "it": ["Conoscere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Conoscere.",
+    "en": null
+  },
+  "lo conoscos": {
+    "bisiac": "el lo conosso",
+    "it": ["Conosci", "lo conosci", "tu lo conosci"],
+    "pos": "v. tr.",
+    "definizione_completa": "Conoscere.",
+    "en": null
+  },
+  "coiòn": {
+    "bisiac": "coiòn",
+    "it": ["Coglione"],
+    "pos": "s. m. e agg. (volg.)",
+    "definizione_completa": "Coglione.",
+    "en": null
+  },
+  "comedòn": {
+    "bisiac": "comedòn",
+    "it": ["Gomito"],
+    "pos": "s. m.",
+    "definizione_completa": "Gomito.",
+    "en": null
+  },
+  "copàr": {
+    "bisiac": "copàr",
+    "it": ["Accoppare", "Uccidere", "Stancare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Accopare, uccidere. 2 Stancare: son copà.",
+    "en": null
+  },
+  "copo": {
+    "bisiac": "copo",
+    "it": ["Tegola"],
+    "pos": "s. f.",
+    "definizione_completa": "Tegola.",
+    "en": null
+  },
+  "coràme": {
+    "bisiac": "coràme",
+    "it": ["Cuoio"],
+    "pos": "s. m.",
+    "definizione_completa": "Cuoio.",
+    "en": null
+  },
+  "cortivo": {
+    "bisiac": "cortivo",
+    "it": ["Cortile"],
+    "pos": "s. f.",
+    "definizione_completa": "Cortile.",
+    "en": null
+  },
+  "cossa": {
+    "bisiac": "cossa",
+    "it": ["Cosa"],
+    "pos": "s. f.",
+    "definizione_completa": "Usato nelle inter. dirette o indirette e nelle esclamative: cosa.",
+    "en": null
+  },
+  "cotola": {
+    "bisiac": "cotola",
+    "it": ["Gonna"],
+    "pos": "s. f. (spec. al pl.)",
+    "definizione_completa": "Gonna.",
+    "en": null
+  },
+  "cragna": {
+    "bisiac": "cragna",
+    "it": ["Sporcizia"],
+    "pos": "s. f.",
+    "definizione_completa": "Sporcizia.",
+    "en": null
+  },
+  "cragnoso": {
+    "bisiac": "cragnoso",
+    "it": ["Sporco"],
+    "pos": "agg.",
+    "definizione_completa": "Sporco.",
+    "en": null
+  },
+  "crocàl": {
+    "bisiac": "crocàl o cocàl",
+    "it": ["Gabbiano", "Stupido"],
+    "pos": "s. m. (pl. crocài o cocài)",
+    "definizione_completa": "1 Gabbiano. 2 (fig.) Stupido.",
+    "en": null
+  },
+  "cròdega": {
+    "bisiac": "cròdega o cròdiga",
+    "it": ["Cotica", "Persona brutta", "Avaro"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Cotica. 2 (fig.) Persona fisicamente brutta. 3 (fig.) Persona avara.",
+    "en": null
+  },
+  "croto": {
+    "bisiac": "croto",
+    "it": ["Nudo"],
+    "pos": "agg.",
+    "definizione_completa": "Nudo.",
+    "en": null
+  },
+  "cùcher": {
+    "bisiac": "cùcher",
+    "it": ["Spioncino"],
+    "pos": "s. m. inv.",
+    "definizione_completa": "Spioncino.",
+    "en": null
+  },
+  "cuciar": {
+    "bisiac": "cuciar",
+    "it": ["Cucchiaio"],
+    "pos": "s. m.",
+    "definizione_completa": "Cucchiaio. || cuciarin, dim.",
+    "en": null
+  },
+  "cudic": {
+    "bisiac": "cudic",
+    "it": ["Codino"],
+    "pos": "s. m.",
+    "definizione_completa": "Codino | gaver el c., essere irrequieto.",
+    "en": null
+  },
+  "cugno": {
+    "bisiac": "cugno",
+    "it": ["Persona lenta di comprendonio"],
+    "pos": "s. m.",
+    "definizione_completa": "Persona lenta di comprendonio.",
+    "en": null
+  },
+  "cuguma": {
+    "bisiac": "cuguma",
+    "it": ["Caffettiera"],
+    "pos": "s. f.",
+    "definizione_completa": "Caffettiera.",
+    "en": null
+  },
+  "culatta": {
+    "bisiac": "culatta",
+    "it": ["Natica"],
+    "pos": "s. f.",
+    "definizione_completa": "Natica.",
+    "en": null
+  },
+  "cunic": {
+    "bisiac": "cunic o cunin",
+    "it": ["Coniglio"],
+    "pos": "s. m.",
+    "definizione_completa": "Coniglio.",
+    "en": null
+  },
+  "cussì": {
+    "bisiac": "cussì",
+    "it": ["Così"],
+    "pos": "avv.",
+    "definizione_completa": "Così.",
+    "en": null
+  },
+  "cussin": {
+    "bisiac": "cussin",
+    "it": ["Cuscino"],
+    "pos": "s. m.",
+    "definizione_completa": "Cuscino.",
+    "en": null
+  },
+  "dedo": {
+    "bisiac": "dedo",
+    "it": ["Dito"],
+    "pos": "s. m.",
+    "definizione_completa": "Dito.",
+    "en": null
+  },
+  "des": {
+    "bisiac": "des",
+    "it": ["Adesso"],
+    "pos": "avv.",
+    "definizione_completa": "Adesso.",
+    "en": null
+  },
+  "desbratàr": {
+    "bisiac": "desbratàr o disbratàr",
+    "it": ["Sparecchiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Sparecchiare.",
+    "en": null
+  },
+  "desbredeàr": {
+    "bisiac": "desbredeàr o disbredeàr",
+    "it": ["Sbrogliare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Sbrogliare.",
+    "en": null
+  },
+  "descabotàr": {
+    "bisiac": "descabotàr",
+    "it": ["Sfogliare le pannocchie"],
+    "pos": "v. tr.",
+    "definizione_completa": "Sfogliare le pannocchie di granturco.",
+    "en": null
+  },
+  "desmentegàr": {
+    "bisiac": "desmentegàr o dismentegàr",
+    "it": ["Dimenticare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Dimenticare.",
+    "en": null
+  },
+  "desnòc": {
+    "bisiac": "desnòc",
+    "it": ["Ginocchio"],
+    "pos": "s. m.",
+    "definizione_completa": "Ginocchio.",
+    "en": null
+  },
+  "destrigàr": {
+    "bisiac": "destrigàr o distrigàr",
+    "it": ["Districare", "Sbrigare"],
+    "pos": "v. tr. e v. rifl.",
+    "definizione_completa": "Districare, sbrigare.",
+    "en": null
+  },
+  "dir": {
+    "bisiac": "dir",
+    "it": ["Dire"],
+    "pos": "v. tr. e v. intr. impers.",
+    "definizione_completa": "(pres. mi digo, ti te disi, lui el disi, noi disemo, voi disè, lori i disi, dise; imperf. mi disevo; cond. pres. mi disessi, diria; congv. imperf. mi disessi) Dire.",
+    "en": null
+  },
+  "discalso": {
+    "bisiac": "discalso",
+    "it": ["Senza calze", "Senza principi"],
+    "pos": "agg.",
+    "definizione_completa": "1 Senza calze 2 (fig.) Senza principi: mularia discalsa.",
+    "en": null
+  },
+  "dispossente": {
+    "bisiac": "dispossente",
+    "it": ["Straccione"],
+    "pos": "agg.",
+    "definizione_completa": "Straccione.",
+    "en": null
+  },
+  "distiràr": {
+    "bisiac": "distiràr",
+    "it": ["Distendere", "Distendersi"],
+    "pos": "v. tr.",
+    "definizione_completa": "A v. tr. Distendere. B v. rifl. Distendersi.",
+    "en": null
+  },
+  "dopràr": {
+    "bisiac": "dopràr",
+    "it": ["Adoperare", "Usare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Adoperare.",
+    "en": null
+  },
+  "drio": {
+    "bisiac": "drio",
+    "it": ["Dietro"],
+    "pos": "avv. e prep. e in funzione di s. m.",
+    "definizione_completa": "Dietro | d. de man, al più presto.",
+    "en": null
+  },
+  "el (1)": {
+    "bisiac": "el (1)",
+    "it": ["Il"],
+    "pos": "art. det. m. sing.",
+    "definizione_completa": "Il.",
+    "en": null
+  },
+  "el (2)": {
+    "bisiac": "el (2)",
+    "it": ["Egli", "Lui"],
+    "pos": "pron. pers. m. di terza pers. sing.",
+    "definizione_completa": "Egli: el se ga fato i cavei viola.",
+    "en": null
+  },
+  "éssar": {
+    "bisiac": "éssar",
+    "it": ["Essere"],
+    "pos": "v. intr.",
+    "definizione_completa": "A v. intr. (pres. mi son, ti te xe, lui el xe, noi semo, voi sè, lori i xe; imperf. mi iero, ti te ieri, lui iera, noi ierimo, voi ieri, lori i iera; fut. mi sarò, ti te sarà, lui el sarà, noi saremo, voi sarè, lori i sarà; cond. pres. mi fossi, saria, ti te fossi, saria, lui el fossi, saria, noi fossimo, voi fossi, lori i fossi; cong. pres. mi sia, ti te sia, lui el sia, noi semo, voi se, lori i sia; cong. imperf. mi fossi, ti te fossi, lui el fossi, noi fossimo, voi fossi, lori i fossi; part. pass. stado) Essere. B v. intr. impers. Essere: xe caldo; xe Nadal; xe par ti che lo digo.",
+    "en": null
+  },
+  "falìs'cia": {
+    "bisiac": "falìs'cia",
+    "it": ["Scintilla"],
+    "pos": "s. f.",
+    "definizione_completa": "Scintilla.",
+    "en": null
+  },
+  "famèa": {
+    "bisiac": "famèa",
+    "it": ["Famiglia", "La nostra Famiglia"],
+    "pos": "s. f. (pl. -mee)",
+    "definizione_completa": "Famiglia.",
+    "en": null
+  },
+  "farme": {
+    "bisiac": "farme",
+    "it": ["farmi", "fammi", "mi fai", "a me fai", "tu mi fai"],
+    "pos": "s. f. inv.",
+    "definizione_completa": "Famiglia.",
+    "en": null
+  },
+  "fapunte": {
+    "bisiac": "fapunte",
+    "it": ["Temperamatite"],
+    "pos": "s. m. inv.",
+    "definizione_completa": "Temperamatite.",
+    "en": null
+  },
+  "far": {
+    "bisiac": "far",
+    "it": ["Fare"],
+    "pos": "v. tr.",
+    "definizione_completa": "(pres. mi faso, ti te fa, lui el fa, noi fasemo, femo, voi fasè, fè, lori i fa; imperf. mi fasevo; fut. mi farò; cond. pres. mi fasesi, faria; cong. imperf. mi fasessi; part. pass. fato) Fare.",
+    "en": null
+  },
+  "farsora": {
+    "bisiac": "farsora",
+    "it": ["Padella"],
+    "pos": "s. f.",
+    "definizione_completa": "Padella.",
+    "en": null
+  },
+  "fasàn": {
+    "bisiac": "fasàn",
+    "it": ["Fagiano"],
+    "pos": "s. m.",
+    "definizione_completa": "Fagiano.",
+    "en": null
+  },
+  "fasòl": {
+    "bisiac": "fasòl",
+    "it": ["Fagiolo"],
+    "pos": "s. f. (pl. -soi)",
+    "definizione_completa": "Fagiolo.",
+    "en": null
+  },
+  "feràl": {
+    "bisiac": "feràl",
+    "it": ["Fanale"],
+    "pos": "s. m.",
+    "definizione_completa": "Fanale.",
+    "en": null
+  },
+  "fio": {
+    "bisiac": "fio",
+    "it": ["Figlio", "Figlia"],
+    "pos": "s. m. (f. fia)",
+    "definizione_completa": "Figlio.",
+    "en": null
+  },
+  "fogo": {
+    "bisiac": "fogo",
+    "it": ["Fuoco"],
+    "pos": "s. m.",
+    "definizione_completa": "Fuoco.",
+    "en": null
+  },
+  "fora": {
+    "bisiac": "fora",
+    "it": ["Fuori"],
+    "pos": "avv. e prep.",
+    "definizione_completa": "Fuori | fora per fora, da parte a parte.",
+    "en": null
+  },
+  "fortàia": {
+    "bisiac": "fortàia",
+    "it": ["Frittata"],
+    "pos": "s. f.",
+    "definizione_completa": "Frittata.",
+    "en": null
+  },
+  "fracàr": {
+    "bisiac": "fracàr",
+    "it": ["Premere", "Possedere carnalmente"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Premere. 2 (fig., volg.) Possedere carnalmente una donna.",
+    "en": null
+  },
+  "fradèl": {
+    "bisiac": "fradèl",
+    "it": ["Fratello"],
+    "pos": "s. m.",
+    "definizione_completa": "Fratello.",
+    "en": null
+  },
+  "fregola": {
+    "bisiac": "fregola",
+    "it": ["Briciola"],
+    "pos": "s. f.",
+    "definizione_completa": "Briciola.",
+    "en": null
+  },
+  "freschìn": {
+    "bisiac": "freschìn",
+    "it": ["Odore sgradevole", "Odore di uovo"],
+    "pos": "s. m.",
+    "definizione_completa": "Odore sgradevole simile a quello dell'uovo e tipico di stoviglie mal lavate: sto bicer sa de f.",
+    "en": null
+  },
+  "fufignàr": {
+    "bisiac": "fufignàr",
+    "it": ["Sgualcire"],
+    "pos": "v. tr.",
+    "definizione_completa": "Sgualcire.",
+    "en": null
+  },
+  "furlàn": {
+    "bisiac": "furlàn",
+    "it": ["Del Friuli", "Friulano", "Dialetto friulano"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "A agg. Del Friuli. B s. m. Abitante del Friuli. C s. m. solo sing. Dialetto parlato in Friuli.",
+    "en": null
+  },
+  "gat": {
+    "bisiac": "gat",
+    "it": ["Gatto"],
+    "pos": "s. m.",
+    "definizione_completa": "Gatto.",
+    "en": null
+  },
+  "gatùzule": {
+    "bisiac": "gatùzule",
+    "it": ["Solletico"],
+    "pos": "s. f. pl.",
+    "definizione_completa": "Solletico.",
+    "en": null
+  },
+  "gaver": {
+    "bisiac": "gaver o ver",
+    "it": ["Avere"],
+    "pos": "v. tr.",
+    "definizione_completa": "(pres. mi go, ti te ga, lui el ga, noi gavemo, vemo, voi gavè, vè, lori i ga; fut. mi gaverò, varò; part. pass. gavudo, gavù, vù) Avere | g. pel cul, importare.",
+    "en": null
+  },
+  "genoc": {
+    "bisiac": "genoc o ginoc",
+    "it": ["Ginocchio"],
+    "pos": "s. m.",
+    "definizione_completa": "Ginocchio.",
+    "en": null
+  },
+  "ghe": {
+    "bisiac": "ghe",
+    "it": ["Gli", "Le", "Loro"],
+    "pos": "pron. pers. di terza pers. m. e f. sing. e pl.",
+    "definizione_completa": "Gli, a lui, le, a lei, li, loro, a loro.",
+    "en": null
+  },
+  "giara": {
+    "bisiac": "giara",
+    "it": ["Ghiaia"],
+    "pos": "s. f.",
+    "definizione_completa": "Ghiaia.",
+    "en": null
+  },
+  "giàs": {
+    "bisiac": "giàs o giasso",
+    "it": ["Ghiaccio"],
+    "pos": "s. m.",
+    "definizione_completa": "Ghiaccio.",
+    "en": null
+  },
+  "giossa": {
+    "bisiac": "giossa",
+    "it": ["Goccia"],
+    "pos": "s. f.",
+    "definizione_completa": "Goccia.",
+    "en": null
+  },
+  "giovine": {
+    "bisiac": "giovine",
+    "it": ["Giovane"],
+    "pos": "agg. e s. m. e f.",
+    "definizione_completa": "Giovane.",
+    "en": null
+  },
+  "giràl": {
+    "bisiac": "giràl",
+    "it": ["Latterino"],
+    "pos": "s. m. (pl. -rài)",
+    "definizione_completa": "Latterino.",
+    "en": null
+  },
+  "gorna": {
+    "bisiac": "gorna",
+    "it": ["Grondaia", "Ubriacone"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Grondaia. 2 Ubriacone.",
+    "en": null
+  },
+  "gnàmpolo": {
+    "bisiac": "gnàmpolo",
+    "it": ["Stupido", "Ingenuo"],
+    "pos": "agg.",
+    "definizione_completa": "Stupido, ingenuo.",
+    "en": null
+  },
+  "gnanca": {
+    "bisiac": "gnanca",
+    "it": ["Neanche"],
+    "pos": "avv.",
+    "definizione_completa": "Neanche.",
+    "en": null
+  },
+  "gnente": {
+    "bisiac": "gnente",
+    "it": ["Niente"],
+    "pos": "pron. indef. e avv. e in funzione di s. m.",
+    "definizione_completa": "Niente.",
+    "en": null
+  },
+  "gnotul": {
+    "bisiac": "gnotul",
+    "it": ["Pipistrello"],
+    "pos": "s. m.",
+    "definizione_completa": "Pipistrello.",
+    "en": null
+  },
+  "grembano": {
+    "bisiac": "grembano",
+    "it": ["Grosso sasso"],
+    "pos": "s. m. (spec. al pl.)",
+    "definizione_completa": "Grosso sasso.",
+    "en": null
+  },
+  "gua": {
+    "bisiac": "gua",
+    "it": ["Arrotino"],
+    "pos": "s. m. inv.",
+    "definizione_completa": "Arrotino.",
+    "en": null
+  },
+  "guàr": {
+    "bisiac": "guàr",
+    "it": ["Arrotare", "Possedere carnalmente", "Scopare", "Fare sesso", "Fare l'amore"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Arrotare. 2 Possedere carnalmente una donna.",
+    "en": null
+  },
+  "gucia": {
+    "bisiac": "gucia",
+    "it": ["Uncinetto"],
+    "pos": "s. f.",
+    "definizione_completa": "Uncinetto.",
+    "en": null
+  },
+  "gudo": {
+    "bisiac": "gudo",
+    "it": ["Ghiozzo"],
+    "pos": "s. m.",
+    "definizione_completa": "Pesce della famiglia delle Gobiidae, comunemente chiamato ghiozzo | Testa de g., stupido.",
+    "en": null
+  },
+  "i": {
+    "bisiac": "i",
+    "it": ["I", "Gli"],
+    "pos": "art. det. m. pl.",
+    "definizione_completa": "I, gli: i muli, i omini.",
+    "en": null
+  },
+  "imbambinìr": {
+    "bisiac": "imbambinìr",
+    "it": ["Istupidire"],
+    "pos": "v. tr.",
+    "definizione_completa": "Istupidire.",
+    "en": null
+  },
+  "imbombìr": {
+    "bisiac": "imbombìr",
+    "it": ["Infradiciare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Infradiciare.",
+    "en": null
+  },
+  "imbredearse": {
+    "bisiac": "imbredearse",
+    "it": ["Impappinarsi"],
+    "pos": "v. intr. pron.",
+    "definizione_completa": "Impappinarsi.",
+    "en": null
+  },
+  "inacorgerse": {
+    "bisiac": "inacorgerse",
+    "it": ["Accorgersi"],
+    "pos": "v. intr. pron.",
+    "definizione_completa": "Accorgersi.",
+    "en": null
+  },
+  "incioccàr": {
+    "bisiac": "incioccàr",
+    "it": ["Ubriacare", "Ubriacarsi"],
+    "pos": "v. tr.",
+    "definizione_completa": "[da ciocca] A v. tr. Ubriacare. B v. intr. pron. Ubriacarsi.",
+    "en": null
+  },
+  "incoconàr": {
+    "bisiac": "incoconàr",
+    "it": ["Ingozzare", "Ingozzarsi"],
+    "pos": "v. tr.",
+    "definizione_completa": "A v. tr. Ingozzare. B v. rifl. Ingozzarsi.",
+    "en": null
+  },
+  "indormia": {
+    "bisiac": "indormia",
+    "it": ["Anestesia"],
+    "pos": "s. f.",
+    "definizione_completa": "Anestesia.",
+    "en": null
+  },
+  "indrìo": {
+    "bisiac": "indrìo",
+    "it": ["Indietro"],
+    "pos": "avv.",
+    "definizione_completa": "Indietro.",
+    "en": null
+  },
+  "indrisàr": {
+    "bisiac": "indrisàr",
+    "it": ["Raddrizzare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Raddrizzare.",
+    "en": null
+  },
+  "ingrumàr": {
+    "bisiac": "ingrumàr",
+    "it": ["Ammucchiare", "Raccogliere", "Sedurre", "Rimorchiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Ammucchiare. 2 Raccogliere. 3 Sedurre, rimorchiare qualcuno.",
+    "en": null
+  },
+  "inpicar": {
+    "bisiac": "inpicar",
+    "it": ["Appendere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Appendere.",
+    "en": null
+  },
+  "inpignìr": {
+    "bisiac": "inpignìr",
+    "it": ["Riempire"],
+    "pos": "v. tr.",
+    "definizione_completa": "Riempire.",
+    "en": null
+  },
+  "inpisàr": {
+    "bisiac": "inpisàr o inpiàr",
+    "it": ["Accendere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Accendere.",
+    "en": null
+  },
+  "insempiàr": {
+    "bisiac": "insempiàr",
+    "it": ["Istupidire"],
+    "pos": "v. tr.",
+    "definizione_completa": "Istupidire.",
+    "en": null
+  },
+  "insopedarse": {
+    "bisiac": "insopedarse",
+    "it": ["Inciampare"],
+    "pos": "v. intr. pron.",
+    "definizione_completa": "Inciampare.",
+    "en": null
+  },
+  "intivàr": {
+    "bisiac": "intivàr",
+    "it": ["Azzeccare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Azzeccare.",
+    "en": null
+  },
+  "intrigàr": {
+    "bisiac": "intrigàr",
+    "it": ["Intralciare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Intralciare.",
+    "en": null
+  },
+  "invirigulàr": {
+    "bisiac": "invirigulàr",
+    "it": ["Attorcigliare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Attorcigliare.",
+    "en": null
+  },
+  "iota": {
+    "bisiac": "iota",
+    "it": ["Minestra di fagioli e crauti", "Jota"],
+    "pos": "s. f.",
+    "definizione_completa": "Minestra a base di fagioli e crauti tipica delle zone di Trieste e Gorizia.",
+    "en": null
+  },
+  "iutàr": {
+    "bisiac": "iutàr",
+    "it": ["Aiutare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Aiutare.",
+    "en": null
+  },
+  "lamio": {
+    "bisiac": "lamio",
+    "it": ["Insipido", "Sciapo"],
+    "pos": "agg.",
+    "definizione_completa": "Insipido.",
+    "en": null
+  },
+  "lavro": {
+    "bisiac": "lavro",
+    "it": ["Labbro"],
+    "pos": "s. m.",
+    "definizione_completa": "Labbro.",
+    "en": null
+  },
+  "ledamer": {
+    "bisiac": "ledamer",
+    "it": ["Letamaio"],
+    "pos": "s. m.",
+    "definizione_completa": "Letamaio.",
+    "en": null
+  },
+  "levàn": {
+    "bisiac": "levàn",
+    "it": ["Lievito"],
+    "pos": "s. m.",
+    "definizione_completa": "Lievito.",
+    "en": null
+  },
+  "levro": {
+    "bisiac": "levro",
+    "it": ["Lepre"],
+    "pos": "s. m.",
+    "definizione_completa": "Lepre.",
+    "en": null
+  },
+  "lippa": {
+    "bisiac": "lippa",
+    "it": ["Marinare la scuola"],
+    "pos": "s. f.",
+    "definizione_completa": "Il marinare la scuola: far l., esser in l.",
+    "en": null
+  },
+  "liserta": {
+    "bisiac": "liserta",
+    "it": ["Lucertola"],
+    "pos": "s. f.",
+    "definizione_completa": "Lucertola.",
+    "en": null
+  },
+  "luganega": {
+    "bisiac": "luganega o luganiga",
+    "it": ["Salsiccia", "Wurstel"],
+    "pos": "s. m.",
+    "definizione_completa": "Salsiccia: i biguli con le luganighe | l. de Viena, wurstel | l. de cragno, salsiccia affumicata a grana grossa che si mangia bollita, originaria della città slovena di Kranj.",
+    "en": null
+  },
+  "madon": {
+    "bisiac": "madon",
+    "it": ["Mattone"],
+    "pos": "s. m.",
+    "definizione_completa": "Mattone.",
+    "en": null
+  },
+  "magnar": {
+    "bisiac": "magnar",
+    "it": ["Mangiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Mangiare.",
+    "en": null
+  },
+  "maiòn": {
+    "bisiac": "maiòn",
+    "it": ["Maglione"],
+    "pos": "s. m.",
+    "definizione_completa": "Maglione.",
+    "en": null
+  },
+  "mandola": {
+    "bisiac": "mandola",
+    "it": ["Tangente", "Bustarella"],
+    "pos": "s. f.",
+    "definizione_completa": "Tangente.",
+    "en": null
+  },
+  "manega": {
+    "bisiac": "manega",
+    "it": ["Manica"],
+    "pos": "s. f.",
+    "definizione_completa": "Manica.",
+    "en": null
+  },
+  "marangòn": {
+    "bisiac": "marangòn",
+    "it": ["Falegname"],
+    "pos": "s. m.",
+    "definizione_completa": "Falegname.",
+    "en": null
+  },
+  "maravea": {
+    "bisiac": "maravea",
+    "it": ["Pagliacciata"],
+    "pos": "s. f.",
+    "definizione_completa": "Pagliacciata.",
+    "en": null
+  },
+  "mare": {
+    "bisiac": "mare",
+    "it": ["Madre"],
+    "pos": "s. f. (pl. -ri)",
+    "definizione_completa": "Madre.",
+    "en": null
+  },
+  "marél": {
+    "bisiac": "marél",
+    "it": ["Covone di fieno", "Cumulo"],
+    "pos": "s. m.",
+    "definizione_completa": "1 Covone di fieno. 2 (est.) Cumulo.",
+    "en": null
+  },
+  "marì": {
+    "bisiac": "marì",
+    "it": ["Marito"],
+    "pos": "s. m. (pl. maridi)",
+    "definizione_completa": "Marito.",
+    "en": null
+  },
+  "masa": {
+    "bisiac": "masa",
+    "it": ["Troppo"],
+    "pos": "avv.",
+    "definizione_completa": "Troppo.",
+    "en": null
+  },
+  "massàngo": {
+    "bisiac": "massàngo",
+    "it": ["Roncola", "Pennato"],
+    "pos": "s. m.",
+    "definizione_completa": "Roncola simile al pennato.",
+    "en": null
+  },
+  "mastrusar": {
+    "bisiac": "mastrusar",
+    "it": ["Stropicciare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Stropicciare.",
+    "en": null
+  },
+  "mastèl": {
+    "bisiac": "mastèl",
+    "it": ["Mastello"],
+    "pos": "s. m.",
+    "definizione_completa": "Mastello.",
+    "en": null
+  },
+  "mastèla": {
+    "bisiac": "mastèla",
+    "it": ["Tinozza", "Catino"],
+    "pos": "s. f.",
+    "definizione_completa": "Tinozza per bagno, catino.",
+    "en": null
+  },
+  "masurìn": {
+    "bisiac": "masurìn",
+    "it": ["Germano reale"],
+    "pos": "s. m.",
+    "definizione_completa": "Germano reale.",
+    "en": null
+  },
+  "mataran": {
+    "bisiac": "mataran",
+    "it": ["Mattacchione"],
+    "pos": "s. m.",
+    "definizione_completa": "Mattacchione.",
+    "en": null
+  },
+  "matanis": {
+    "bisiac": "matanis",
+    "it": ["Mattacchione"],
+    "pos": "s. m. (f. -sa)",
+    "definizione_completa": "V. mataran.",
+    "en": null
+  },
+  "meio": {
+    "bisiac": "meio",
+    "it": ["Meglio", "Migliore"],
+    "pos": "avv. e agg. inv. e s. m. e f. inv.",
+    "definizione_completa": "A avv. e agg. inv. e s. m. e f. inv. Meglio. B agg. inv. e s. m. e f. inv. Migliore.",
+    "en": null
+  },
+  "mina": {
+    "bisiac": "mina",
+    "it": ["Sbornia", "Cazzotto", "Tiro violento"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Sbornia. 2 Cazzotto. 3 Tiro violento.",
+    "en": null
+  },
+  "misiar": {
+    "bisiac": "misiar",
+    "it": ["Mescolare", "Baciarsi", "Fare petting"],
+    "pos": "v. tr.",
+    "definizione_completa": "A v. tr. Mescolare. B v. rifl. e rifl. rec. 1 Baciarsi. 2 Fare petting.",
+    "en": null
+  },
+  "mona": {
+    "bisiac": "mona",
+    "it": ["Vagina", "Stupido"],
+    "pos": "s. f. e agg.",
+    "definizione_completa": "A s. f. (volg.) Vagina. B agg. e s. m. Stupido.",
+    "en": null
+  },
+  "mònega": {
+    "bisiac": "mònega",
+    "it": ["Suora", "Scaldino"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Suora. 2 Scaldino. 3 Eufemismo per mona.",
+    "en": null
+  },
+  "morer": {
+    "bisiac": "morer",
+    "it": ["Gelso moro"],
+    "pos": "s. m.",
+    "definizione_completa": "Gelso moro.",
+    "en": null
+  },
+  "moschìn": {
+    "bisiac": "moschìn",
+    "it": ["Moscerino"],
+    "pos": "s. m.",
+    "definizione_completa": "Moscerino.",
+    "en": null
+  },
+  "mularia": {
+    "bisiac": "mularia",
+    "it": ["Gioventù", "Compagnia di amici"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Gioventù. 2 Compagnia di amici.",
+    "en": null
+  },
+  "mulo": {
+    "bisiac": "mulo",
+    "it": ["Ragazzo", "Fidanzato"],
+    "pos": "s. m. (f. -a)",
+    "definizione_completa": "1 Ragazzo. 2 Fidanzato.",
+    "en": null
+  },
+  "mus": {
+    "bisiac": "mus",
+    "it": ["Mulo"],
+    "pos": "s. m.",
+    "definizione_completa": "Mulo | Ciapar un m. per un caval, prendere una cantonata.",
+    "en": null
+  },
+  "mussàt": {
+    "bisiac": "mussàt",
+    "it": ["Zanzara"],
+    "pos": "s. m.",
+    "definizione_completa": "Zanzara.",
+    "en": null
+  },
+  "musìna": {
+    "bisiac": "musìna",
+    "it": ["Salvadanaio"],
+    "pos": "s. f.",
+    "definizione_completa": "Salvadanaio.",
+    "en": null
+  },
+  "nane": {
+    "bisiac": "nane",
+    "it": ["Persona ingenua", "Innocente"],
+    "pos": "s. m.",
+    "definizione_completa": "Persona ingenua.",
+    "en": null
+  },
+  "nàsser": {
+    "bisiac": "nàsser",
+    "it": ["Nascere", "Succedere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Nascere | esser nato, succedere.",
+    "en": null
+  },
+  "ninìn": {
+    "bisiac": "ninìn",
+    "it": ["Carino"],
+    "pos": "agg.",
+    "definizione_completa": "Carino.",
+    "en": null
+  },
+  "nisiòl": {
+    "bisiac": "nisiòl",
+    "it": ["Lenzuolo"],
+    "pos": "s. m. (pl. nisioi)",
+    "definizione_completa": "Lenzuolo.",
+    "en": null
+  },
+  "nissun": {
+    "bisiac": "nissun",
+    "it": ["Nessuno"],
+    "pos": "agg. e pron. indef. e s. m. sing.",
+    "definizione_completa": "Nessuno.",
+    "en": null
+  },
+  "novo": {
+    "bisiac": "novo",
+    "it": ["Nuovo"],
+    "pos": "agg.",
+    "definizione_completa": "Nuovo.",
+    "en": null
+  },
+  "ocio": {
+    "bisiac": "ocio",
+    "it": ["Occhio"],
+    "pos": "s. m.",
+    "definizione_completa": "Occhio.",
+    "en": null
+  },
+  "oio": {
+    "bisiac": "oio",
+    "it": ["Olio"],
+    "pos": "s. m.",
+    "definizione_completa": "Olio.",
+    "en": null
+  },
+  "omo": {
+    "bisiac": "omo",
+    "it": ["Uomo"],
+    "pos": "s. m. (pl. omini)",
+    "definizione_completa": "Uomo.",
+    "en": null
+  },
+  "ordegno": {
+    "bisiac": "ordegno",
+    "it": ["Ordigno", "Arnese"],
+    "pos": "s. m.",
+    "definizione_completa": "Ordigno, arnese.",
+    "en": null
+  },
+  "ovo": {
+    "bisiac": "ovo o òu",
+    "it": ["Uovo", "Uovo sodo"],
+    "pos": "s. m. (pl. ovi)",
+    "definizione_completa": "Uovo: o. duro: uovo sodo.",
+    "en": null
+  },
+  "paiasso": {
+    "bisiac": "paiasso",
+    "it": ["Pagliaccio"],
+    "pos": "s. m.",
+    "definizione_completa": "Pagliaccio.",
+    "en": null
+  },
+  "pal": {
+    "bisiac": "pal",
+    "it": ["Per il"],
+    "pos": "prep. art. m. s.",
+    "definizione_completa": "Per il.",
+    "en": null
+  },
+  "pantegana": {
+    "bisiac": "pantegana",
+    "it": ["Ratto", "Topo di fogna"],
+    "pos": "s. f.",
+    "definizione_completa": "Ratto.",
+    "en": null
+  },
+  "papìna": {
+    "bisiac": "papìna",
+    "it": ["Sberla"],
+    "pos": "s. f.",
+    "definizione_completa": "Sberla.",
+    "en": null
+  },
+  "papùza": {
+    "bisiac": "papùza",
+    "it": ["Pantofola", "Ciabatta"],
+    "pos": "s. f.",
+    "definizione_completa": "Pantofola.",
+    "en": null
+  },
+  "par": {
+    "bisiac": "par",
+    "it": ["Per"],
+    "pos": "prep. propria semplice",
+    "definizione_completa": "Per.",
+    "en": null
+  },
+  "parchè": {
+    "bisiac": "parchè",
+    "it": ["Perché"],
+    "pos": "avv. e cong. e s. m.",
+    "definizione_completa": "Perché.",
+    "en": null
+  },
+  "pare": {
+    "bisiac": "pare",
+    "it": ["Padre"],
+    "pos": "s. m.",
+    "definizione_completa": "Padre.",
+    "en": null
+  },
+  "passiòn": {
+    "bisiac": "passiòn",
+    "it": ["Passione", "Voglia"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Passione. 2 Voglia: no go p.",
+    "en": null
+  },
+  "pec": {
+    "bisiac": "pec",
+    "it": ["Panettiere", "Fornaio"],
+    "pos": "s. m.",
+    "definizione_completa": "Panettiere.",
+    "en": null
+  },
+  "pedoc": {
+    "bisiac": "pedoc",
+    "it": ["Pidocchio", "Avaro", "Mitilo", "Cozza"],
+    "pos": "s. m.",
+    "definizione_completa": "1 Pidocchio. 2 Avaro. 3 Mitilo.",
+    "en": null
+  },
+  "pedocioso": {
+    "bisiac": "pedocioso",
+    "it": ["Avaro", "Tirchio"],
+    "pos": "agg.",
+    "definizione_completa": "Avaro.",
+    "en": null
+  },
+  "pèndul": {
+    "bisiac": "pèndul",
+    "it": ["Lippa"],
+    "pos": "s. m.",
+    "definizione_completa": "Lippa, ossia desueto gioco per ragazzini praticato nelle strade, vagamente simile al baseball, che consiste nel percuotere con una mazza, a turno, un bastoncino appuntito posato a terra per farlo saltare in aria e poi colpirlo nuovamente al volo gettandolo il più lontano possibile.",
+    "en": null
+  },
+  "per": {
+    "bisiac": "per",
+    "it": ["Paio"],
+    "pos": "s. m. (pl. peri)",
+    "definizione_completa": "Paio.",
+    "en": null
+  },
+  "persegàda": {
+    "bisiac": "persegàda",
+    "it": ["Pesche col vino"],
+    "pos": "s. f.",
+    "definizione_completa": "Pesche col vino.",
+    "en": null
+  },
+  "pèrsigo": {
+    "bisiac": "pèrsigo",
+    "it": ["Pesca"],
+    "pos": "s. m. (pl. -ghi)",
+    "definizione_completa": "Pesca.",
+    "en": null
+  },
+  "pestacio": {
+    "bisiac": "pestacio",
+    "it": ["Pistacchio"],
+    "pos": "s. m. (pl. -ci)",
+    "definizione_completa": "Pistacchio.",
+    "en": null
+  },
+  "petàr": {
+    "bisiac": "petàr",
+    "it": ["Schiacciare", "Affibiare", "Fregare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Schiacciare. 2 Affibiare: p. un apuntamento | petarla a qc., fregarlo.",
+    "en": null
+  },
+  "petenàr": {
+    "bisiac": "petenàr",
+    "it": ["Pettinare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Pettinare.",
+    "en": null
+  },
+  "petes": {
+    "bisiac": "petes",
+    "it": ["Bibita alcolica"],
+    "pos": "s. m.",
+    "definizione_completa": "Generica bibita alcolica.",
+    "en": null
+  },
+  "petesòn": {
+    "bisiac": "petesòn",
+    "it": ["Ubriacone"],
+    "pos": "s. m.",
+    "definizione_completa": "Ubriacone.",
+    "en": null
+  },
+  "pévere": {
+    "bisiac": "pévere",
+    "it": ["Pepe"],
+    "pos": "s. m.",
+    "definizione_completa": "Pepe.",
+    "en": null
+  },
+  "pianser": {
+    "bisiac": "pianser",
+    "it": ["Piangere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Piangere.",
+    "en": null
+  },
+  "piansùda": {
+    "bisiac": "piansùda",
+    "it": ["Pianto"],
+    "pos": "s. f.",
+    "definizione_completa": "Pianto | far una p., sfogarsi piangendo.",
+    "en": null
+  },
+  "pic": {
+    "bisiac": "pic o picio",
+    "it": ["Piccolo"],
+    "pos": "agg.",
+    "definizione_completa": "Piccolo.",
+    "en": null
+  },
+  "picàr (1)": {
+    "bisiac": "picàr (1)",
+    "it": ["Pendere", "Essere assonnato"],
+    "pos": "v. intr.",
+    "definizione_completa": "1 Pendere. 2 (fig.) Essere assonnato, stare per addormentarsi in piedi o seduto.",
+    "en": null
+  },
+  "piera": {
+    "bisiac": "piera",
+    "it": ["Pietra"],
+    "pos": "s. f.",
+    "definizione_completa": "Pietra.",
+    "en": null
+  },
+  "pignàta": {
+    "bisiac": "pignàta",
+    "it": ["Pentola"],
+    "pos": "s. f.",
+    "definizione_completa": "Pentola.",
+    "en": null
+  },
+  "pimpinél": {
+    "bisiac": "pimpinél",
+    "it": ["Stupido"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "Stupido.",
+    "en": null
+  },
+  "pindolòn": {
+    "bisiac": "pindolòn o pindulòn",
+    "it": ["Penzoloni"],
+    "pos": "vc.",
+    "definizione_completa": "Solo nella loc. avv. a p., a penzoloni.",
+    "en": null
+  },
+  "piombo": {
+    "bisiac": "piombo",
+    "it": ["Fradicio", "Bagnato"],
+    "pos": "agg.",
+    "definizione_completa": "Fradicio.",
+    "en": null
+  },
+  "piova": {
+    "bisiac": "piova",
+    "it": ["Pioggia"],
+    "pos": "s. f.",
+    "definizione_completa": "Pioggia.",
+    "en": null
+  },
+  "pìria": {
+    "bisiac": "pìria",
+    "it": ["Imbuto", "Ubriacone"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Imbuto. 2 (fig.) Ubriacone.",
+    "en": null
+  },
+  "piròn": {
+    "bisiac": "piròn",
+    "it": ["Forchetta"],
+    "pos": "s. m.",
+    "definizione_completa": "Forchetta | tufo a p., tuffo in verticale con le gambe tese.",
+    "en": null
+  },
+  "pìrula": {
+    "bisiac": "pìrula",
+    "it": ["Pillola"],
+    "pos": "s. f.",
+    "definizione_completa": "Pillola.",
+    "en": null
+  },
+  "pisdrùl": {
+    "bisiac": "pisdrùl",
+    "it": ["Bambino"],
+    "pos": "s. m.",
+    "definizione_completa": "Bambino.",
+    "en": null
+  },
+  "pìtima": {
+    "bisiac": "pìtima",
+    "it": ["Persona lagnosa"],
+    "pos": "s. f.",
+    "definizione_completa": "Persona lagnosa.",
+    "en": null
+  },
+  "pitufàr": {
+    "bisiac": "pitufàr",
+    "it": ["Stuzzicare", "Baruffare"],
+    "pos": "v. intr. (aus. gaver)",
+    "definizione_completa": "Stuzzicare, baruffare.",
+    "en": null
+  },
+  "podér": {
+    "bisiac": "podér",
+    "it": ["Potere"],
+    "pos": "v. tr.",
+    "definizione_completa": "(pres. mi poso, ti te pol, lui el pol, noi podemo, voi podè, lori i pol) Potere.",
+    "en": null
+  },
+  "polés": {
+    "bisiac": "polés",
+    "it": ["Pollo"],
+    "pos": "s. m. (pl. polèssi)",
+    "definizione_completa": "Pollo.",
+    "en": null
+  },
+  "por": {
+    "bisiac": "por",
+    "it": ["Povero"],
+    "pos": "agg.",
+    "definizione_completa": "Povero.",
+    "en": null
+  },
+  "porét": {
+    "bisiac": "porét",
+    "it": ["Poveretto"],
+    "pos": "agg.",
+    "definizione_completa": "Poveretto.",
+    "en": null
+  },
+  "porsèl": {
+    "bisiac": "porsèl",
+    "it": ["Maiale"],
+    "pos": "s. m.",
+    "definizione_completa": "Maiale.",
+    "en": null
+  },
+  "privata": {
+    "bisiac": "privata",
+    "it": ["Chiosco di vini", "Frasca", "Osmiza"],
+    "pos": "s. f.",
+    "definizione_completa": "Chiosco adibito alla vendita di vini e sim.",
+    "en": null
+  },
+  "pulinér": {
+    "bisiac": "pulinér",
+    "it": ["Pollaio"],
+    "pos": "s. m.",
+    "definizione_completa": "Pollaio.",
+    "en": null
+  },
+  "puntasiàl": {
+    "bisiac": "puntasiàl",
+    "it": ["Spilla da balia"],
+    "pos": "s. m.",
+    "definizione_completa": "[lett. puntascialle, spilla usata dalle donne per bloccare lo scialle] Spilla da balia.",
+    "en": null
+  },
+  "putèl": {
+    "bisiac": "putèl",
+    "it": ["Bambino", "Ragazzo"],
+    "pos": "s. m. (f. -la)",
+    "definizione_completa": "Bambino, ragazzo.",
+    "en": null
+  },
+  "qualcossa": {
+    "bisiac": "qualcossa",
+    "it": ["Qualcosa"],
+    "pos": "pron. indef. m. e f. sing.",
+    "definizione_completa": "Qualcosa.",
+    "en": null
+  },
+  "raccàr": {
+    "bisiac": "raccàr",
+    "it": ["Vomitare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Vomitare | r. i sentimenti, vomitare l'anima.",
+    "en": null
+  },
+  "rapar": {
+    "bisiac": "rapar",
+    "it": ["Argine"],
+    "pos": "s. m.",
+    "definizione_completa": "Argine.",
+    "en": null
+  },
+  "rassa (1)": {
+    "bisiac": "rassa (1)",
+    "it": ["Anatra"],
+    "pos": "s. f.",
+    "definizione_completa": "Anatra.",
+    "en": null
+  },
+  "rassa (2)": {
+    "bisiac": "rassa (2)",
+    "it": ["Razza"],
+    "pos": "s. f.",
+    "definizione_completa": "Razza.",
+    "en": null
+  },
+  "rebechìn": {
+    "bisiac": "rebechìn",
+    "it": ["Spuntino", "Merenda"],
+    "pos": "s. m.",
+    "definizione_completa": "Spuntino.",
+    "en": null
+  },
+  "recia": {
+    "bisiac": "recia",
+    "it": ["Orecchio", "Omosessuale"],
+    "pos": "s. f. (pl. -ce)",
+    "definizione_completa": "1 Orecchio. 2 Omosessuale.",
+    "en": null
+  },
+  "reciòn": {
+    "bisiac": "reciòn",
+    "it": ["Omosessuale"],
+    "pos": "s. m.",
+    "definizione_completa": "Omossessuale maschile.",
+    "en": null
+  },
+  "refada": {
+    "bisiac": "refada",
+    "it": ["Sistemata"],
+    "pos": "s. f.",
+    "definizione_completa": "[da refarse] Sistemata.",
+    "en": null
+  },
+  "refarse": {
+    "bisiac": "refarse",
+    "it": ["Risistemarsi", "Rimettersi in sesto"],
+    "pos": "v. intr. pron. (aus. esser)",
+    "definizione_completa": "Risistemarsi, rimettersi in sesto: Omo, refite.",
+    "en": null
+  },
+  "remenada": {
+    "bisiac": "remenada",
+    "it": ["Burla", "Fracco di botte", "Batosta"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Burla. 2 Fracco di botte, batosta.",
+    "en": null
+  },
+  "remenàr": {
+    "bisiac": "remenàr",
+    "it": ["Dimenare", "Rigirare", "Rimestare", "Insistere", "Burlare", "Malmenare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Dimenare, rigirare, rimestare | Remenarse: perdere tempo in attività inutili. 2 (est.) Insistere su un argomento. 3 Burlare. 4 Malmenare, strapazzare.",
+    "en": null
+  },
+  "remitùr": {
+    "bisiac": "remitùr",
+    "it": ["Sconvolgimento"],
+    "pos": "s. m.",
+    "definizione_completa": "Sconvolgimento.",
+    "en": null
+  },
+  "renga": {
+    "bisiac": "renga",
+    "it": ["Aringa"],
+    "pos": "s. f.",
+    "definizione_completa": "Aringa.",
+    "en": null
+  },
+  "resentada": {
+    "bisiac": "resentada",
+    "it": ["Risciacquata", "Pulita"],
+    "pos": "s. f.",
+    "definizione_completa": "Risciacquata, pulita.",
+    "en": null
+  },
+  "resentàr": {
+    "bisiac": "resentàr",
+    "it": ["Risciacquare", "Pulire"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Risciacquare. 2 (est.) Pulire.",
+    "en": null
+  },
+  "rivar": {
+    "bisiac": "rivar",
+    "it": ["Arrivare", "Riuscire"],
+    "pos": "v. intr.",
+    "definizione_completa": "Arrivare, riuscire.",
+    "en": null
+  },
+  "rider": {
+    "bisiac": "rider",
+    "it": ["Ridere", "Ho le lacrime", "Mi fai divertire"],
+    "pos": "v. intr.",
+    "definizione_completa": "Ridere, essere contenti, manifestare gioia",
+    "en": null
+  },
+  "ronchisàr": {
+    "bisiac": "ronchisàr",
+    "it": ["Russare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Russare.",
+    "en": null
+  },
+  "ruc": {
+    "bisiac": "ruc",
+    "it": ["Spinta"],
+    "pos": "s. m.",
+    "definizione_completa": "[da rucar] Spinta.",
+    "en": null
+  },
+  "rucada": {
+    "bisiac": "rucada",
+    "it": ["Spinta continuata"],
+    "pos": "s. f.",
+    "definizione_completa": "[da rucar] Spinta continuata.",
+    "en": null
+  },
+  "rucàr": {
+    "bisiac": "rucàr",
+    "it": ["Spingere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Spingere.",
+    "en": null
+  },
+  "rumatèra": {
+    "bisiac": "rumatèra",
+    "it": ["Talpa"],
+    "pos": "s. f.",
+    "definizione_completa": "Talpa.",
+    "en": null
+  },
+  "rusàr": {
+    "bisiac": "rusàr",
+    "it": ["Graffiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Graffiare.",
+    "en": null
+  },
+  "sacagnada": {
+    "bisiac": "sacagnada",
+    "it": ["Fracco di botte", "Batosta"],
+    "pos": "s. f.",
+    "definizione_completa": "Fracco di botte, batosta.",
+    "en": null
+  },
+  "sacagnàr": {
+    "bisiac": "sacagnàr",
+    "it": ["Malmenare", "Strapazzare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Malmenare, strapazzare.",
+    "en": null
+  },
+  "sai": {
+    "bisiac": "sai",
+    "it": ["Assai", "Molto"],
+    "pos": "avv.",
+    "definizione_completa": "Assai, molto.",
+    "en": null
+  },
+  "saiba": {
+    "bisiac": "saiba",
+    "it": ["Rondella"],
+    "pos": "s. f.",
+    "definizione_completa": "Rondella.",
+    "en": null
+  },
+  "sardela": {
+    "bisiac": "sardela",
+    "it": ["Sardina"],
+    "pos": "s. f.",
+    "definizione_completa": "Sardina.",
+    "en": null
+  },
+  "sardòn": {
+    "bisiac": "sardòn",
+    "it": ["Acciuga", "Alice"],
+    "pos": "s. f.",
+    "definizione_completa": "Acciuga, alice.",
+    "en": null
+  },
+  "saresa": {
+    "bisiac": "saresa",
+    "it": ["Ciliegia"],
+    "pos": "s. f.",
+    "definizione_completa": "Ciliegia.",
+    "en": null
+  },
+  "sareser": {
+    "bisiac": "sareser",
+    "it": ["Ciliegio"],
+    "pos": "s. m.",
+    "definizione_completa": "Ciliegio.",
+    "en": null
+  },
+  "savàta": {
+    "bisiac": "savàta",
+    "it": ["Ciabatta"],
+    "pos": "s. f.",
+    "definizione_completa": "Ciabatta.",
+    "en": null
+  },
+  "sbabazzàr": {
+    "bisiac": "sbabazzàr",
+    "it": ["Spettegolare"],
+    "pos": "v. intr. (aus. gaver)",
+    "definizione_completa": "[da babezzo] Spettegolare.",
+    "en": null
+  },
+  "sbaiàr": {
+    "bisiac": "sbaiàr",
+    "it": ["Sbagliare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Sbagliare.",
+    "en": null
+  },
+  "sbisulàdo": {
+    "bisiac": "sbisulàdo o sbisulà",
+    "it": ["Melangiato"],
+    "pos": "agg.",
+    "definizione_completa": "Melangiato.",
+    "en": null
+  },
+  "sbic": {
+    "bisiac": "sbic",
+    "it": ["Piccola quantità", "Poco"],
+    "pos": "s. m.",
+    "definizione_completa": "Piccola quantità.",
+    "en": null
+  },
+  "sbisigàr": {
+    "bisiac": "sbisigàr",
+    "it": ["Rovistare", "Dire a bassa voce"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Rovistare. 2 Dire a bassa voce.",
+    "en": null
+  },
+  "sborsegàr": {
+    "bisiac": "sborsegàr",
+    "it": ["Tossire violentemente"],
+    "pos": "v. intr.",
+    "definizione_completa": "Tossire violentemente o con insistenza.",
+    "en": null
+  },
+  "sbregabalon": {
+    "bisiac": "sbregabalon",
+    "it": ["A iosa", "In abbondanza"],
+    "pos": "vc.",
+    "definizione_completa": "Solo nella loc. avv. a s., a iosa.",
+    "en": null
+  },
+  "sbregàr": {
+    "bisiac": "sbregàr",
+    "it": ["Strappare"],
+    "pos": "v. tr.",
+    "definizione_completa": "[dal gotico brikan 'rompere'] Strappare.",
+    "en": null
+  },
+  "sbrego": {
+    "bisiac": "sbrego",
+    "it": ["Strappo"],
+    "pos": "s. m.",
+    "definizione_completa": "Strappo.",
+    "en": null
+  },
+  "sbrindul": {
+    "bisiac": "sbrindul",
+    "it": ["Lembo"],
+    "pos": "s. m.",
+    "definizione_completa": "Lembo.",
+    "en": null
+  },
+  "sbrindulon": {
+    "bisiac": "sbrindulon",
+    "it": ["Penzoloni"],
+    "pos": "vc.",
+    "definizione_completa": "Solo nella loc. avv. a s., a penzoloni",
+    "en": null
+  },
+  "sbrisàr": {
+    "bisiac": "sbrisàr",
+    "it": ["Scivolare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Scivolare.",
+    "en": null
+  },
+  "sbrovàda": {
+    "bisiac": "sbrovàda",
+    "it": ["Contorno di rape"],
+    "pos": "s. f.",
+    "definizione_completa": "Contorno a base di rape bianche macerate nei tini insieme a vinacce di uva rossa per circa 40 giorni, quindi pelate e tagliate a fettucine.",
+    "en": null
+  },
+  "sbrovàr": {
+    "bisiac": "sbrovàr",
+    "it": ["Scottare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Scottare.",
+    "en": null
+  },
+  "sbrufador": {
+    "bisiac": "sbrufador",
+    "it": ["Annaffiatoio"],
+    "pos": "s. m.",
+    "definizione_completa": "Annafiatoio.",
+    "en": null
+  },
+  "sbrumàr": {
+    "bisiac": "sbrumàr",
+    "it": ["Vomitare", "Bruciare in partenza"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Vomitare. 2 Bruciare in partenza.",
+    "en": null
+  },
+  "sbudelàr": {
+    "bisiac": "sbudelàr",
+    "it": ["Far uscire la camicia dai pantaloni"],
+    "pos": "v. tr.",
+    "definizione_completa": "Far uscire la camicia dai pantaloni.",
+    "en": null
+  },
+  "sbulfo": {
+    "bisiac": "sbulfo",
+    "it": ["Obeso", "Grasso"],
+    "pos": "agg.",
+    "definizione_completa": "Obeso.",
+    "en": null
+  },
+  "sburt": {
+    "bisiac": "sburt",
+    "it": ["Spinta"],
+    "pos": "s. m.",
+    "definizione_completa": "Spinta.",
+    "en": null
+  },
+  "sburtàr": {
+    "bisiac": "sburtàr",
+    "it": ["Spingere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Spingere.",
+    "en": null
+  },
+  "sbusàr": {
+    "bisiac": "sbusàr",
+    "it": ["Bucare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Bucare.",
+    "en": null
+  },
+  "scafa": {
+    "bisiac": "scafa",
+    "it": ["Acquaio", "Lavandino", "Mangione"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Acquaio. 2 (fig.) Mangione.",
+    "en": null
+  },
+  "scagno": {
+    "bisiac": "scagno",
+    "it": ["Sgabello"],
+    "pos": "s. m.",
+    "definizione_completa": "sgabello | furbo come un s., poco furbo. || scagneto, dim.",
+    "en": null
+  },
+  "scàio": {
+    "bisiac": "scàio",
+    "it": ["Ascella"],
+    "pos": "s. m.",
+    "definizione_completa": "Ascella.",
+    "en": null
+  },
+  "scansél": {
+    "bisiac": "scansél",
+    "it": ["Cassetto"],
+    "pos": "s. m.",
+    "definizione_completa": "Cassetto.",
+    "en": null
+  },
+  "scarpéna": {
+    "bisiac": "scarpéna",
+    "it": ["Scorfano"],
+    "pos": "s. f.",
+    "definizione_completa": "Scorfano.",
+    "en": null
+  },
+  "scarséla": {
+    "bisiac": "scarséla",
+    "it": ["Tasca"],
+    "pos": "s. f.",
+    "definizione_completa": "Tasca.",
+    "en": null
+  },
+  "scavasàr": {
+    "bisiac": "scavasàr",
+    "it": ["Rompere", "Rovinare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Rompere o rovinare accidentalmente: s. l'auto.",
+    "en": null
+  },
+  "scheo": {
+    "bisiac": "scheo",
+    "it": ["Soldo"],
+    "pos": "s. m. (spec. al pl.)",
+    "definizione_completa": "[dalla scritta scheid.munz (abbreviazione di Scheidemünze 'moneta divisionale' che si leggeva su alcune monete austriache)] Soldo.",
+    "en": null
+  },
+  "schila": {
+    "bisiac": "schila",
+    "it": ["Gambero grigio"],
+    "pos": "s. f.",
+    "definizione_completa": "Gambero grigio.",
+    "en": null
+  },
+  "schisàr": {
+    "bisiac": "schisàr",
+    "it": ["Schizzare", "Schiacciare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Schizzare. 2 Schiacciare.",
+    "en": null
+  },
+  "s'ciaiba": {
+    "bisiac": "s'ciaiba",
+    "it": ["Moccio", "Caccole"],
+    "pos": "s. f.",
+    "definizione_completa": "Moccio.",
+    "en": null
+  },
+  "s'cinca": {
+    "bisiac": "s'cinca",
+    "it": ["Biglia"],
+    "pos": "s. f. (pl. -che)",
+    "definizione_completa": "Biglia.",
+    "en": null
+  },
+  "s'ciopàr": {
+    "bisiac": "s'ciopàr",
+    "it": ["Scoppiare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Scoppiare.",
+    "en": null
+  },
+  "sclipignàr": {
+    "bisiac": "sclipignàr",
+    "it": ["Schizzare", "Macchiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Schizzare, macchiare.",
+    "en": null
+  },
+  "scoder": {
+    "bisiac": "scoder",
+    "it": ["Sollecitare un pagamento", "Riscuotere"],
+    "pos": "v. tr. (part. pass. scodudo, scodù)",
+    "definizione_completa": "Sollecitare un pagamento.",
+    "en": null
+  },
+  "scola": {
+    "bisiac": "scola",
+    "it": ["Scuola"],
+    "pos": "s. f.",
+    "definizione_completa": "Scuola.",
+    "en": null
+  },
+  "sconder": {
+    "bisiac": "sconder",
+    "it": ["Nascondere"],
+    "pos": "v. tr. (part. pass. sconto)",
+    "definizione_completa": "Nascondere.",
+    "en": null
+  },
+  "sconto": {
+    "bisiac": "sconto",
+    "it": ["Nascosto"],
+    "pos": "part. pass. di sconder; anche agg.",
+    "definizione_completa": "Nascosto.",
+    "en": null
+  },
+  "scorondul": {
+    "bisiac": "scorondul",
+    "it": ["Tutolo", "Torsolo della pannocchia"],
+    "pos": "s. m.",
+    "definizione_completa": "Tutolo, ossia il torsolo della pannocchia di granoturco.",
+    "en": null
+  },
+  "scovàr": {
+    "bisiac": "scovàr",
+    "it": ["Scopare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Scopare.",
+    "en": null
+  },
+  "scovàsa": {
+    "bisiac": "scovàsa",
+    "it": ["Immondizia", "Rifiuto"],
+    "pos": "s. f.",
+    "definizione_completa": "Immondizia, rifiuto | camion delle scovase, mezzo per la raccolta dei rifiuti.",
+    "en": null
+  },
+  "scovasera": {
+    "bisiac": "scovasera",
+    "it": ["Pattumiera"],
+    "pos": "s. f.",
+    "definizione_completa": "[da scovasa] Pattumiera.",
+    "en": null
+  },
+  "scovasin": {
+    "bisiac": "scovasin",
+    "it": ["Netturbino", "Spazzino"],
+    "pos": "s. m.",
+    "definizione_completa": "[da scovasa] Netturbino.",
+    "en": null
+  },
+  "scràsula": {
+    "bisiac": "scràsula",
+    "it": ["Ferrovecchio"],
+    "pos": "s. f.",
+    "definizione_completa": "Ferrovecchio.",
+    "en": null
+  },
+  "scràuso": {
+    "bisiac": "scràuso",
+    "it": ["Di scarso valore", "Scadente"],
+    "pos": "agg.",
+    "definizione_completa": "Di scarso valore o qualità.",
+    "en": null
+  },
+  "screàr": {
+    "bisiac": "screàr",
+    "it": ["Usare per la prima volta", "Inaugurare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Usare per la prima volta.",
+    "en": null
+  },
+  "screpi": {
+    "bisiac": "screpi",
+    "it": ["Stoviglie", "Piatti"],
+    "pos": "s. m. pl.",
+    "definizione_completa": "Stoviglie.",
+    "en": null
+  },
+  "scufarse": {
+    "bisiac": "scufarse",
+    "it": ["Accovacciarsi"],
+    "pos": "v. rifl.",
+    "definizione_completa": "Accovacciarsi.",
+    "en": null
+  },
+  "scufiot": {
+    "bisiac": "scufiot",
+    "it": ["Sberla", "Scappellotto"],
+    "pos": "s. m.",
+    "definizione_completa": "Sberla.",
+    "en": null
+  },
+  "scurtar": {
+    "bisiac": "scurtar",
+    "it": ["Accorciare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Accorciare.",
+    "en": null
+  },
+  "scussa": {
+    "bisiac": "scussa",
+    "it": ["Scorza", "Buccia"],
+    "pos": "s. f.",
+    "definizione_completa": "Scorza.",
+    "en": null
+  },
+  "scussar": {
+    "bisiac": "scussar",
+    "it": ["Scorzare", "Sbucciare", "Produrre un'abrasione"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Scorzare 2 Sbucciare, produrre un'abrasione: scussarse i genoci.",
+    "en": null
+  },
+  "sdenteado": {
+    "bisiac": "sdenteado",
+    "it": ["Sdentato"],
+    "pos": "agg.",
+    "definizione_completa": "Sdentato.",
+    "en": null
+  },
+  "sdrìsula": {
+    "bisiac": "sdrìsula",
+    "it": ["Truciolo di legno"],
+    "pos": "s. f.",
+    "definizione_completa": "Truciolo di legno.",
+    "en": null
+  },
+  "sdròc": {
+    "bisiac": "sdròc",
+    "it": ["Disordinato", "Trasandato"],
+    "pos": "agg.",
+    "definizione_completa": "Disordinato o trasandato?.",
+    "en": null
+  },
+  "sdrondenada": {
+    "bisiac": "sdrondenada",
+    "it": ["Scossa", "Botte"],
+    "pos": "s. f.",
+    "definizione_completa": "[f. sost. di sdrondenado] 1 Atto, effetto dello sdrondenar. 2 Botta: ghe go dado una s. per la testa.",
+    "en": null
+  },
+  "sdrondenar": {
+    "bisiac": "sdrondenar",
+    "it": ["Scuotere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Scuotere.",
+    "en": null
+  },
+  "sdruma": {
+    "bisiac": "sdruma",
+    "it": ["Caterva", "Moltitudine"],
+    "pos": "s. f.",
+    "definizione_completa": "Caterva: una s. de gente.",
+    "en": null
+  },
+  "seare": {
+    "bisiac": "seare",
+    "it": ["Sopracciglia"],
+    "pos": "s. f. pl.",
+    "definizione_completa": "Sopracciglia.",
+    "en": null
+  },
+  "sec": {
+    "bisiac": "sec o secio",
+    "it": ["Secchio"],
+    "pos": "s. m.",
+    "definizione_completa": "Secchio.",
+    "en": null
+  },
+  "seima": {
+    "bisiac": "seima",
+    "it": ["Festa della befana", "Falò epifanico"],
+    "pos": "s. f.",
+    "definizione_completa": "Tradizionale festa di origine contadina che si svolge il 5 o 6 di gennaio per festeggiare la befana, durante la quale viene bruciato un fantoccio in cima ad una pira di legno e paglia, dal cui fumo vengono tratti auspici per il nuovo anno.",
+    "en": null
+  },
+  "sempio": {
+    "bisiac": "sempio",
+    "it": ["Scemo"],
+    "pos": "agg e s. m.",
+    "definizione_completa": "Scemo. || sempioldo, dim.",
+    "en": null
+  },
+  "sentàr": {
+    "bisiac": "sentàr",
+    "it": ["Sedere", "Sedersi"],
+    "pos": "v. intr.",
+    "definizione_completa": "A v. intr. Sedere. B v. rifl. Sedersi.",
+    "en": null
+  },
+  "sentàmbul": {
+    "bisiac": "sentàmbul",
+    "it": ["Sedia", "Panca", "Sgabello"],
+    "pos": "s. m.",
+    "definizione_completa": "[da sentàr] Oggetto su cui sedersi, come una sedia, una panca o uno sgabello.",
+    "en": null
+  },
+  "seràr": {
+    "bisiac": "seràr",
+    "it": ["Chiudere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Chiudere.",
+    "en": null
+  },
+  "sercàr": {
+    "bisiac": "sercàr",
+    "it": ["Assaggiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Assaggiare.",
+    "en": null
+  },
+  "sest": {
+    "bisiac": "sest",
+    "it": ["Gesto strano"],
+    "pos": "s. m.",
+    "definizione_completa": "Gesto strano, tipico dei matti o di chi voglia scherzare: far sesti.",
+    "en": null
+  },
+  "sgabotàr": {
+    "bisiac": "sgabotàr",
+    "it": ["Sfogliare pannocchie"],
+    "pos": "v. tr.",
+    "definizione_completa": "Vedi descabotàr.",
+    "en": null
+  },
+  "sgaio": {
+    "bisiac": "sgaio",
+    "it": ["Sveglio", "Scaltro"],
+    "pos": "agg.",
+    "definizione_completa": "1 Sveglio, dotato di ingegno o loquacità. 2 Scaltro.",
+    "en": null
+  },
+  "sgamàr": {
+    "bisiac": "sgamàr",
+    "it": ["Cogliere sul fatto", "Scoprire"],
+    "pos": "v. tr.",
+    "definizione_completa": "Cogliere sul fatto.",
+    "en": null
+  },
+  "sgarbel": {
+    "bisiac": "sgarbel",
+    "it": ["Caccole degli occhi"],
+    "pos": "s. m.",
+    "definizione_completa": "Secrezione incrostata dell'occhio.",
+    "en": null
+  },
+  "sghit": {
+    "bisiac": "sghit",
+    "it": ["Escremento di uccello", "Piccola quantità"],
+    "pos": "s. m. (pl. sghiti)",
+    "definizione_completa": "1 Escremento di uccello. 2 Piccola quantità.",
+    "en": null
+  },
+  "sgionfar": {
+    "bisiac": "sgionfar",
+    "it": ["Gonfiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Gonfiare.",
+    "en": null
+  },
+  "sgorbàr": {
+    "bisiac": "sgorbàr",
+    "it": ["Accecare a un occhio"],
+    "pos": "v. tr.",
+    "definizione_completa": "Accecare ad un occhio.",
+    "en": null
+  },
+  "sgorlàr": {
+    "bisiac": "sgorlàr",
+    "it": ["Scrollare", "Scuotere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Scrollare.",
+    "en": null
+  },
+  "sgràsia": {
+    "bisiac": "sgràsia",
+    "it": ["Raucedine"],
+    "pos": "s. f.",
+    "definizione_completa": "Raucedine.",
+    "en": null
+  },
+  "sgrisignìr": {
+    "bisiac": "sgrisignìr",
+    "it": ["Sgualcire", "Raggrinzire"],
+    "pos": "v. intr.",
+    "definizione_completa": "Sgualcire, raggrinzire.",
+    "en": null
+  },
+  "sgrisul": {
+    "bisiac": "sgrisul",
+    "it": ["Solletico"],
+    "pos": "s. m. (pl. -sui) (spec. al pl.)",
+    "definizione_completa": "Solletico.",
+    "en": null
+  },
+  "sidela": {
+    "bisiac": "sidela",
+    "it": ["Caramella all'orzo"],
+    "pos": "s. f.",
+    "definizione_completa": "Caramella all'orzo.",
+    "en": null
+  },
+  "sievolo": {
+    "bisiac": "sievolo",
+    "it": ["Cefalo"],
+    "pos": "s. m.",
+    "definizione_completa": "Cefalo.",
+    "en": null
+  },
+  "sigàr": {
+    "bisiac": "sigàr",
+    "it": ["Urlare", "Gridare"],
+    "pos": "v. intr. e tr.",
+    "definizione_completa": "Urlare.",
+    "en": null
+  },
+  "sigalon": {
+    "bisiac": "sigalon",
+    "it": ["Urlatore"],
+    "pos": "s. m.",
+    "definizione_completa": "Persona che urla spesso o senza motivo.",
+    "en": null
+  },
+  "simigàr": {
+    "bisiac": "simigàr",
+    "it": ["Ammiccare", "Fare l'occhiolino"],
+    "pos": "v. intr.",
+    "definizione_completa": "Ammiccare, fare l'occhiolino.",
+    "en": null
+  },
+  "simpatico": {
+    "bisiac": "còcolo",
+    "it": ["Simpatico", "fai ridere", "fa ridere", "piacevole", "divertente", "gradevole"],
+    "pos": "v. intr.",
+    "definizione_completa": "Ammiccare, fare l'occhiolino.",
+    "en": null
+  },
+  "sina": {
+    "bisiac": "sina",
+    "it": ["Rotaia", "Binario", "Dove passa il Treno"],
+    "pos": "s. f.",
+    "definizione_completa": "[dal tedesco Schiene 'rotaia'] Rotaia.",
+    "en": null
+  },
+  "sio": {
+    "bisiac": "sio",
+    "it": ["Zio", "Zia"],
+    "pos": "s. m. (f. -a)",
+    "definizione_completa": "Zio.",
+    "en": null
+  },
+  "sior": {
+    "bisiac": "sior",
+    "it": ["Signore", "Signora"],
+    "pos": "s. m. (f. -ra)",
+    "definizione_completa": "Signore.",
+    "en": null
+  },
+  "sivilotto": {
+    "bisiac": "sivilotto",
+    "it": ["Tiro forte"],
+    "pos": "s. m.",
+    "definizione_completa": "Tiro particolarmente forte.",
+    "en": null
+  },
+  "sivola": {
+    "bisiac": "sivola",
+    "it": ["Cipolla"],
+    "pos": "s. f.",
+    "definizione_completa": "Cipolla.",
+    "en": null
+  },
+  "slacài": {
+    "bisiac": "slacài",
+    "it": ["Lumaca senza conchiglia", "Limaccia"],
+    "pos": "s. m. (pl. -cai)",
+    "definizione_completa": "Lumaca senza conchiglia.",
+    "en": null
+  },
+  "slacaìs": {
+    "bisiac": "slacaìs",
+    "it": ["Limaccioso"],
+    "pos": "agg.",
+    "definizione_completa": "Limaccioso.",
+    "en": null
+  },
+  "slapagnàr": {
+    "bisiac": "slapagnàr",
+    "it": ["Sporcare con liquidi"],
+    "pos": "v. tr.",
+    "definizione_completa": "Sporcare schizzando o spandendo un liquido.",
+    "en": null
+  },
+  "slepa": {
+    "bisiac": "slepa",
+    "it": ["Schiaffo", "Grande quantità"],
+    "pos": "s. f.",
+    "definizione_completa": "1 Schiaffo, colpo violento. 2 Grande quantità.",
+    "en": null
+  },
+  "slisigar": {
+    "bisiac": "slisigar",
+    "it": ["Scivolare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Scivolare.",
+    "en": null
+  },
+  "smarir": {
+    "bisiac": "smarir",
+    "it": ["Scolorire"],
+    "pos": "v. intr.",
+    "definizione_completa": "Scolorire.",
+    "en": null
+  },
+  "sogàr": {
+    "bisiac": "sogàr o sugàr",
+    "it": ["Giocare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Giocare.",
+    "en": null
+  },
+  "sogàtolo": {
+    "bisiac": "sogàtolo o sugàtolo",
+    "it": ["Giocattolo"],
+    "pos": "s. m.",
+    "definizione_completa": "Giocattolo. || sugatél, dim.",
+    "en": null
+  },
+  "sonàr": {
+    "bisiac": "sonàr",
+    "it": ["Suonare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Suonare.",
+    "en": null
+  },
+  "sopàr": {
+    "bisiac": "sopàr",
+    "it": ["Fare la scarpetta"],
+    "pos": "v. tr.",
+    "definizione_completa": "Fare la scarpetta.",
+    "en": null
+  },
+  "sopa": {
+    "bisiac": "sopa",
+    "it": ["Scarpetta", "Sonora sconfitta"],
+    "pos": "s. f.",
+    "definizione_completa": "1 L'atto di far la scarpetta in un piatto. 2 Sonora sconfitta: ciapar una s.",
+    "en": null
+  },
+  "sora": {
+    "bisiac": "sora",
+    "it": ["Sopra"],
+    "pos": "prep. e avv. e agg. inv. e s. m. inv.",
+    "definizione_completa": "Sopra.",
+    "en": null
+  },
+  "sotegàr": {
+    "bisiac": "sotegàr",
+    "it": ["Zoppicare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Zoppicare.",
+    "en": null
+  },
+  "spagnòl": {
+    "bisiac": "spagnòl",
+    "it": ["Sigaretta"],
+    "pos": "s. m. (pl. -gnoi)",
+    "definizione_completa": "Sigaretta.",
+    "en": null
+  },
+  "spàrgher": {
+    "bisiac": "spàrgher",
+    "it": ["Cucina a legna", "Spolert"],
+    "pos": "s. m.",
+    "definizione_completa": "Cucina con focolare a legna.",
+    "en": null
+  },
+  "spetàr": {
+    "bisiac": "spetàr",
+    "it": ["Aspettare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Aspettare.",
+    "en": null
+  },
+  "spigheta": {
+    "bisiac": "spigheta",
+    "it": ["Laccio delle scarpe"],
+    "pos": "s. f.",
+    "definizione_completa": "Laccio delle scarpe.",
+    "en": null
+  },
+  "spris": {
+    "bisiac": "spris o spritz",
+    "it": ["Spritz"],
+    "pos": "s. m.",
+    "definizione_completa": "Aperitivo preparato mescolando acqua frizzante e vino (bianco o rosso).",
+    "en": null
+  },
+  "stagnàco": {
+    "bisiac": "stagnàco",
+    "it": ["Secchio da muratore"],
+    "pos": "s. m.",
+    "definizione_completa": "Secchio usato dai muratori per trasportare malta o cemento fresco.",
+    "en": null
+  },
+  "stecadenti": {
+    "bisiac": "stecadenti",
+    "it": ["Stuzzicadenti"],
+    "pos": "s. m. inv.",
+    "definizione_completa": "Stuzzicadenti.",
+    "en": null
+  },
+  "stonfàr": {
+    "bisiac": "stonfàr",
+    "it": ["Saziare", "Nauseare", "Stuccare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Saziare, nauseare, stuccare.",
+    "en": null
+  },
+  "stornel": {
+    "bisiac": "stornel",
+    "it": ["Storno", "Persona stupida", "Testardo"],
+    "pos": "s. m.",
+    "definizione_completa": "1 Storno. 2 Persona stupida o testarda.",
+    "en": null
+  },
+  "strafanìc": {
+    "bisiac": "strafanìc",
+    "it": ["Oggetto inutile", "Persona disordinata"],
+    "pos": "s. m. (pl. -ci)",
+    "definizione_completa": "1 Oggetto inutile e ingombrante. 2 (est.) Persona disordinata o maltenuta.",
+    "en": null
+  },
+  "stralòc": {
+    "bisiac": "stralòc",
+    "it": ["Strabico"],
+    "pos": "agg.",
+    "definizione_completa": "Strabico.",
+    "en": null
+  },
+  "stramacàr": {
+    "bisiac": "stramacàr",
+    "it": ["Stramazzare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Stramazzare.",
+    "en": null
+  },
+  "stranfàr": {
+    "bisiac": "stranfàr",
+    "it": ["Rovesciare", "Traboccare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Versare fuori uscendo da un recipiente, rovesciare.",
+    "en": null
+  },
+  "strangusìdo": {
+    "bisiac": "strangusìdo o strangusì",
+    "it": ["Magrolino", "Deperito"],
+    "pos": "agg.",
+    "definizione_completa": "Magrolino, deperito.",
+    "en": null
+  },
+  "stras": {
+    "bisiac": "stras",
+    "it": ["Straccio"],
+    "pos": "s. m. (pl. -si)",
+    "definizione_completa": "Straccio.",
+    "en": null
+  },
+  "strasinàr": {
+    "bisiac": "strasinàr",
+    "it": ["Trascinare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Trascinare.",
+    "en": null
+  },
+  "stravacàdo": {
+    "bisiac": "stravacàdo",
+    "it": ["Sdraiato scomposto", "Seduto scomposto"],
+    "pos": "agg.",
+    "definizione_completa": "Sdraiato, seduto in modo scomposto, detto di persona.",
+    "en": null
+  },
+  "stravacarse": {
+    "bisiac": "stravacarse",
+    "it": ["Sdraiarsi scompostamente", "Sedersi scompostamente"],
+    "pos": "v. intr. pron.",
+    "definizione_completa": "Sdraiarsi, sedersi in modo scomposto.",
+    "en": null
+  },
+  "strica": {
+    "bisiac": "strica",
+    "it": ["Riga"],
+    "pos": "s. f.",
+    "definizione_completa": "Riga.",
+    "en": null
+  },
+  "stricàda": {
+    "bisiac": "stricàda",
+    "it": ["Dormita"],
+    "pos": "s. f.",
+    "definizione_completa": "[astr. verb. da stricar] Dormita. || stricadina, dim. | stricadona, accr.",
+    "en": null
+  },
+  "stricàr": {
+    "bisiac": "stricàr",
+    "it": ["Dormire", "Depennare"],
+    "pos": "v. intr.",
+    "definizione_completa": "1 Dormire. 2 Depennare con una riga.",
+    "en": null
+  },
+  "strìsula": {
+    "bisiac": "strìsula",
+    "it": ["Strisciolina"],
+    "pos": "s. f.",
+    "definizione_completa": "Strisciolina: cagar a strisule.",
+    "en": null
+  },
+  "stropàr": {
+    "bisiac": "stropàr",
+    "it": ["Tappare", "Otturare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Tappare, otturare",
+    "en": null
+  },
+  "strucolo": {
+    "bisiac": "strucolo",
+    "it": ["Strudel"],
+    "pos": "s. m.",
+    "definizione_completa": "Strudel.",
+    "en": null
+  },
+  "strussa": {
+    "bisiac": "strussa",
+    "it": ["Filone di pane"],
+    "pos": "s. f.",
+    "definizione_completa": "Filone di pane.",
+    "en": null
+  },
+  "studàr": {
+    "bisiac": "studàr",
+    "it": ["Spegnere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Spegnere",
+    "en": null
+  },
+  "stupides": {
+    "bisiac": "stupides",
+    "it": ["Stupidaggine"],
+    "pos": "s. m. (pl. -si)",
+    "definizione_completa": "Stupidaggine.",
+    "en": null
+  },
+  "subiot": {
+    "bisiac": "subiot",
+    "it": ["Maccherone"],
+    "pos": "s. m. (pl. -ti)",
+    "definizione_completa": "Maccherone.",
+    "en": null
+  },
+  "surlo": {
+    "bisiac": "surlo",
+    "it": ["Persona stupida", "Ingenuo"],
+    "pos": "s. m.",
+    "definizione_completa": "Persona stupida, ingenua.",
+    "en": null
+  },
+  "sutto": {
+    "bisiac": "sutto",
+    "it": ["Asciutto"],
+    "pos": "agg.",
+    "definizione_completa": "Asciutto.",
+    "en": null
+  },
+  "sveabaùchi": {
+    "bisiac": "sveabaùchi",
+    "it": ["Lezione", "Svegliata"],
+    "pos": "s. m.",
+    "definizione_completa": "[da sveia e bacuc] Gesto atto a scaltrire o dare una lezione | s.!, si dice a chi, in una particulare situazione, fa la figura del rimbambito.",
+    "en": null
+  },
+  "sveia": {
+    "bisiac": "sveia",
+    "it": ["Sveglia"],
+    "pos": "s. f.",
+    "definizione_completa": "Sveglia.",
+    "en": null
+  },
+  "svelandrìn": {
+    "bisiac": "svelandrìn",
+    "it": ["Indumento leggero"],
+    "pos": "s. m.",
+    "definizione_completa": "Indumento molto leggero.",
+    "en": null
+  },
+  "svodàr": {
+    "bisiac": "svodàr",
+    "it": ["Vuotare", "Svuotare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Vuotare.",
+    "en": null
+  },
+  "tabachin": {
+    "bisiac": "tabachin",
+    "it": ["Tabaccheria"],
+    "pos": "s. m.",
+    "definizione_completa": "Tabaccheria.",
+    "en": null
+  },
+  "tacadis": {
+    "bisiac": "tacadis",
+    "it": ["Appiccicoso"],
+    "pos": "agg.",
+    "definizione_completa": "Appiccicoso.",
+    "en": null
+  },
+  "tacomaco": {
+    "bisiac": "tacomaco",
+    "it": ["Etichetta autoadesiva", "Adesivo"],
+    "pos": "s. m.",
+    "definizione_completa": "Etichetta autoadesiva.",
+    "en": null
+  },
+  "taconar": {
+    "bisiac": "taconar",
+    "it": ["Possedere carnalmente", "Ingannare", "Imbrogliare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Possedere carnalmente. 2 (fig.) Ingannare, imbrogliare.",
+    "en": null
+  },
+  "tafanàrio": {
+    "bisiac": "tafanàrio",
+    "it": ["Deretano", "Sedere", "Oggetto ingombrante"],
+    "pos": "s. m.",
+    "definizione_completa": "1 Deretano. 2 Oggetto ingombrante.",
+    "en": null
+  },
+  "taiar": {
+    "bisiac": "taiar",
+    "it": ["Tagliare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Tagliare.",
+    "en": null
+  },
+  "taio": {
+    "bisiac": "taio",
+    "it": ["Taglio"],
+    "pos": "s. m. (pl. tai)",
+    "definizione_completa": "Taglio | in t., da parte.",
+    "en": null
+  },
+  "talpon": {
+    "bisiac": "talpon",
+    "it": ["Pioppo"],
+    "pos": "s. m.",
+    "definizione_completa": "Pioppo.",
+    "en": null
+  },
+  "tapar": {
+    "bisiac": "tapar",
+    "it": ["Tappare", "Agghindarsi"],
+    "pos": "v. tr.",
+    "definizione_completa": "Tappare | taparse a fogo, agghindarsi di tutto punto.",
+    "en": null
+  },
+  "tavanar": {
+    "bisiac": "tavanar",
+    "it": ["Spostarsi continuamente"],
+    "pos": "v. intr.",
+    "definizione_completa": "Spostarsi continuamente: t. avanti e drio.",
+    "en": null
+  },
+  "tega": {
+    "bisiac": "tega",
+    "it": ["Botta", "Colpo"],
+    "pos": "s. f.",
+    "definizione_completa": "Botta, colpo.",
+    "en": null
+  },
+  "tegolina": {
+    "bisiac": "tegolina",
+    "it": ["Fagiolino"],
+    "pos": "s. f.",
+    "definizione_completa": "Fagiolino.",
+    "en": null
+  },
+  "terlìs": {
+    "bisiac": "terlìs",
+    "it": ["Tuta da officina", "Tuta da lavoro"],
+    "pos": "s. m.",
+    "definizione_completa": "Tuta da officina.",
+    "en": null
+  },
+  "tibiar": {
+    "bisiac": "tibiar",
+    "it": ["Calpestare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Calpestare.",
+    "en": null
+  },
+  "ticar": {
+    "bisiac": "ticar",
+    "it": ["Andare a genio", "Piacere"],
+    "pos": "v. intr.",
+    "definizione_completa": "Andare a genio.",
+    "en": null
+  },
+  "tignir": {
+    "bisiac": "tignir",
+    "it": ["Tenere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Tenere.",
+    "en": null
+  },
+  "tiraca": {
+    "bisiac": "tiraca",
+    "it": ["Bretella"],
+    "pos": "s. f. (spec. al pl.)",
+    "definizione_completa": "Bretella.",
+    "en": null
+  },
+  "tociar": {
+    "bisiac": "tociar",
+    "it": ["Intingere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Intingere.",
+    "en": null
+  },
+  "toco": {
+    "bisiac": "toco",
+    "it": ["Pezzo"],
+    "pos": "s. m.",
+    "definizione_completa": "Pezzo: t. de pan.",
+    "en": null
+  },
+  "tola": {
+    "bisiac": "tola",
+    "it": ["Tavola"],
+    "pos": "s. f.",
+    "definizione_completa": "Tavola.",
+    "en": null
+  },
+  "torseolàr": {
+    "bisiac": "torseolàr o torsiolàr",
+    "it": ["Girovagare"],
+    "pos": "v. intr.",
+    "definizione_completa": "Girovagare.",
+    "en": null
+  },
+  "torseolòn": {
+    "bisiac": "torseolòn o torsiolòn",
+    "it": ["Girovago"],
+    "pos": "s. m.",
+    "definizione_completa": "Persona continuamente in giro.",
+    "en": null
+  },
+  "tracagnot": {
+    "bisiac": "tracagnot",
+    "it": ["Tarchiato"],
+    "pos": "agg.",
+    "definizione_completa": "Tarchiato: pic e tracagnot.",
+    "en": null
+  },
+  "tramacàr": {
+    "bisiac": "tramacàr",
+    "it": ["Traslocare", "Spostare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Traslocare. 2 (est.) Spostare di peso.",
+    "en": null
+  },
+  "tramàco": {
+    "bisiac": "tramàco",
+    "it": ["Trasloco"],
+    "pos": "s. m.",
+    "definizione_completa": "Trasloco.",
+    "en": null
+  },
+  "traversa": {
+    "bisiac": "traversa",
+    "it": ["Grembiule"],
+    "pos": "s. f.",
+    "definizione_completa": "Grembiule.",
+    "en": null
+  },
+  "trapoler": {
+    "bisiac": "trapoler",
+    "it": ["Furbacchione"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "Furbacchione.",
+    "en": null
+  },
+  "traversar": {
+    "bisiac": "traversar",
+    "it": ["Attraversare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Attraversare.",
+    "en": null
+  },
+  "tut": {
+    "bisiac": "tut",
+    "it": ["Tutto"],
+    "pos": "agg. indef. e pron. indef. e avv. e s. m. inv.",
+    "definizione_completa": "Tutto.",
+    "en": null
+  },
+  "ucio": {
+    "bisiac": "ucio",
+    "it": ["Triestino"],
+    "pos": "s. m. (f. ucia)",
+    "definizione_completa": "Triestino, nativo della provincia o città di Trieste.",
+    "en": null
+  },
+  "ungia": {
+    "bisiac": "ungia",
+    "it": ["Unghia"],
+    "pos": "s. f. (pl. -ge)",
+    "definizione_completa": "Unghia.",
+    "en": null
+  },
+  "urtiga": {
+    "bisiac": "urtiga",
+    "it": ["Ortica"],
+    "pos": "s. f. (pl. -ghe)",
+    "definizione_completa": "Ortica.",
+    "en": null
+  },
+  "usel": {
+    "bisiac": "usel",
+    "it": ["Uccello"],
+    "pos": "s. m. (pl. -sei)",
+    "definizione_completa": "Uccello.",
+    "en": null
+  },
+  "vardar": {
+    "bisiac": "vardar",
+    "it": ["Guardare"],
+    "pos": "v. tr.",
+    "definizione_completa": "Guardare.",
+    "en": null
+  },
+  "varsor": {
+    "bisiac": "varsor",
+    "it": ["Aratro"],
+    "pos": "s. m.",
+    "definizione_completa": "Aratro.",
+    "en": null
+  },
+  "vecio": {
+    "bisiac": "vecio",
+    "it": ["Vecchio"],
+    "pos": "agg. e s. m.",
+    "definizione_completa": "Vecchio.",
+    "en": null
+  },
+  "vedran": {
+    "bisiac": "vedran",
+    "it": ["Zitellone", "Scapolo"],
+    "pos": "s. m.",
+    "definizione_completa": "Zitellone.",
+    "en": null
+  },
+  "verser": {
+    "bisiac": "verser",
+    "it": ["Aprire"],
+    "pos": "v. tr. (part. pass. verto)",
+    "definizione_completa": "Aprire",
+    "en": null
+  },
+  "vida": {
+    "bisiac": "vida",
+    "it": ["Vite metallica"],
+    "pos": "s. f. (pl. -de)",
+    "definizione_completa": "Vite (il cilindretto metallico con rilievo elicoidale).",
+    "en": null
+  },
+  "vide": {
+    "bisiac": "vide",
+    "it": ["Vite (pianta)"],
+    "pos": "s. f. (pl. -di)",
+    "definizione_completa": "Vite (l'arbusto delle Vitacee).",
+    "en": null
+  },
+  "videl": {
+    "bisiac": "videl",
+    "it": ["Vitello"],
+    "pos": "s. m.",
+    "definizione_completa": "Vitello.",
+    "en": null
+  },
+  "viva": {
+    "bisiac": "viva",
+    "it": ["Ciao"],
+    "pos": "inter.",
+    "definizione_completa": "Ciao.",
+    "en": null
+  },
+  "viz": {
+    "bisiac": "viz",
+    "it": ["Scherzo", "Facezia", "Senso", "Scopo"],
+    "pos": "s. m.",
+    "definizione_completa": "[dal tedesco Witz 'barzelletta, scherzo, facezia'] 1 Scherzo, facezia. 2 Senso, scopo: Che v. xe?.",
+    "en": null
+  },
+  "voler": {
+    "bisiac": "voler",
+    "it": ["Volere"],
+    "pos": "v. tr.",
+    "definizione_completa": "(pres. mi voio, ti te vol, lui el vol, noi volemo, voi volè, lori i vol) Volere.",
+    "en": null
+  },
+  "za": {
+    "bisiac": "za",
+    "it": ["Già"],
+    "pos": "avv.",
+    "definizione_completa": "Già.",
+    "en": null
+  },
+  "zata": {
+    "bisiac": "zata",
+    "it": ["Zampa"],
+    "pos": "s. f.",
+    "definizione_completa": "Zampa.",
+    "en": null
+  },
+  "zercar": {
+    "bisiac": "zercar",
+    "it": ["Cercare", "Assaggiare"],
+    "pos": "v. tr.",
+    "definizione_completa": "1 Cercare. 2 Assaggiare.",
+    "en": null
+  },
+  "zima": {
+    "bisiac": "zima",
+    "it": ["Vento freddo", "Freddo"],
+    "pos": "s. f. sing.",
+    "definizione_completa": "[dallo sloveno zima 'inverno'] Vento freddo | xe z., fa freddo.",
+    "en": null
+  },
+  "zo": {
+    "bisiac": "zo",
+    "it": ["Giù"],
+    "pos": "avv.",
+    "definizione_completa": "Giù.",
+    "en": null
+  },
+  "zoncar": {
+    "bisiac": "zoncar",
+    "it": ["Tagliare di netto"],
+    "pos": "v. tr.",
+    "definizione_completa": "Tagliare di netto.",
+    "en": null
+  },
+  "zontar": {
+    "bisiac": "zontar",
+    "it": ["Aggiungere"],
+    "pos": "v. tr.",
+    "definizione_completa": "Aggiungere.",
+    "en": null
+  },
+  "zoto": {
+    "bisiac": "zoto",
+    "it": ["Zoppo"],
+    "pos": "agg.",
+    "definizione_completa": "Zoppo.",
+    "en": null
+  },
+  "inutile": {
+    "bisiac": "inutile",
+    "it": ["inutile"],
+    "pos": "agg.",
+    "definizione_completa": "Inutile.",
+    "en": null
+  },
+  "che": {
+    "bisiac": "che",
+    "it": ["che"],
+    "pos": "cong.",
+    "definizione_completa": "Che.",
+    "en": null
+  },
+  "me": {
+    "bisiac": "me",
+    "it": ["mi", "me"],
+    "pos": "pron.",
+    "definizione_completa": "Mi, me (pronome personale).",
+    "en": null
+  },
+  "perder": {
+    "bisiac": "perder",
+    "it": ["perdere"],
+    "pos": "v.",
+    "definizione_completa": "Perdere.",
+    "en": null
+  },
+  "tempo": {
+    "bisiac": "tempo",
+    "it": ["tempo"],
+    "pos": "s. m.",
+    "definizione_completa": "Tempo.",
+    "en": null
+  },
+  "il": {
+    "bisiac": "el",
+    "it": ["il", "lo"],
+    "pos": "art. det.",
+    "definizione_completa": "Articolo determinativo maschile singolare.",
+    "en": null
+  },
+  "la": {
+    "bisiac": "la",
+    "it": ["la", "l'"],
+    "pos": "art. det.",
+    "definizione_completa": "Articolo determinativo femminile singolare.",
+    "en": null
+  },
+  "le": {
+    "bisiac": "le",
+    "it": ["le"],
+    "pos": "art. det.",
+    "definizione_completa": "Articolo determinativo femminile plurale.",
+    "en": null
+  },
+  "un": {
+    "bisiac": "un",
+    "it": ["un", "uno"],
+    "pos": "art. indet.",
+    "definizione_completa": "Articolo indeterminativo maschile.",
+    "en": null
+  },
+  "una": {
+    "bisiac": "una",
+    "it": ["una", "un'"],
+    "pos": "art. indet.",
+    "definizione_completa": "Articolo indeterminativo femminile.",
+    "en": null
+  },
+  "di": {
+    "bisiac": "de",
+    "it": ["di"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'di'.",
+    "en": null
+  },
+  "a": {
+    "bisiac": "a",
+    "it": ["a"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'a'.",
+    "en": null
+  },
+  "da": {
+    "bisiac": "de",
+    "it": ["da"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'da'.",
+    "en": null
+  },
+  "in": {
+    "bisiac": "in",
+    "it": ["in"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'in'.",
+    "en": null
+  },
+  "con": {
+    "bisiac": "con",
+    "it": ["con"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'con'.",
+    "en": null
+  },
+  "su": {
+    "bisiac": "su",
+    "it": ["su"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'su'.",
+    "en": null
+  },
+  "tra": {
+    "bisiac": "tra",
+    "it": ["tra", "fra"],
+    "pos": "prep.",
+    "definizione_completa": "Preposizione semplice 'tra' o 'fra'.",
+    "en": null
+  },
+  "e": {
+    "bisiac": "e",
+    "it": ["e"],
+    "pos": "cong.",
+    "definizione_completa": "Congiunzione 'e'.",
+    "en": null
+  },
+  "o": {
+    "bisiac": "o",
+    "it": ["o"],
+    "pos": "cong.",
+    "definizione_completa": "Congiunzione 'o'.",
+    "en": null
+  },
+  "ma": {
+    "bisiac": "ma",
+    "it": ["ma"],
+    "pos": "cong.",
+    "definizione_completa": "Congiunzione 'ma'.",
+    "en": null
+  },
+  "se": {
+    "bisiac": "se",
+    "it": ["se"],
+    "pos": "cong.",
+    "definizione_completa": "Congiunzione 'se'.",
+    "en": null
+  },
+  "perche": {
+    "bisiac": "parchè",
+    "it": ["perché"],
+    "pos": "cong./avv.",
+    "definizione_completa": "Congiunzione o avverbio 'perché'.",
+    "en": null
+  },
+  "quando": {
+    "bisiac": "cuando",
+    "it": ["quando"],
+    "pos": "cong./avv.",
+    "definizione_completa": "Congiunzione o avverbio 'quando'.",
+    "en": null
+  },
+  "allora": {
+    "bisiac": "alora",
+    "it": ["allora"],
+    "pos": "cong./avv.",
+    "definizione_completa": "Congiunzione o avverbio 'allora'.",
+    "en": null
+  },
+  "si": {
+    "bisiac": "sì",
+    "it": ["sì"],
+    "pos": "avv.",
+    "definizione_completa": "Avverbio 'sì'.",
+    "en": null
+  },
+  "no": {
+    "bisiac": "no",
+    "it": ["no"],
+    "pos": "avv.",
+    "definizione_completa": "Avverbio 'no'.",
+    "en": null
+  },
+  "forse": {
+    "bisiac": "forse",
+    "it": ["forse"],
+    "pos": "avv.",
+    "definizione_completa": "Avverbio 'forse'.",
+    "en": null
+  },
+  "questo": {
+    "bisiac": "sto",
+    "it": ["questo"],
+    "pos": "agg./pron. dim.",
+    "definizione_completa": "Dimostrativo 'questo'.",
+    "en": null
+  },
+  "questa": {
+    "bisiac": "sta",
+    "it": ["questa"],
+    "pos": "agg./pron. dim.",
+    "definizione_completa": "Dimostrativo 'questa'.",
+    "en": null
+  },
+  "quello": {
+    "bisiac": "quel",
+    "it": ["quello"],
+    "pos": "agg./pron. dim.",
+    "definizione_completa": "Dimostrativo 'quello'.",
+    "en": null
+  },
+  "quella": {
+    "bisiac": "quela",
+    "it": ["quella"],
+    "pos": "agg./pron. dim.",
+    "definizione_completa": "Dimostrativo 'quella'.",
+    "en": null
+  },
+  "chi": {
+    "bisiac": "chi",
+    "it": ["chi"],
+    "pos": "pron. inter.",
+    "definizione_completa": "Interrogativo 'chi?'.",
+    "en": null
+  },
+  "cosa": {
+    "bisiac": "cossa",
+    "it": ["cosa"],
+    "pos": "pron. inter.",
+    "definizione_completa": "Interrogativo 'cosa?'.",
+    "en": null
+  },
+  "dove": {
+    "bisiac": "do",
+    "it": ["dove"],
+    "pos": "avv. inter.",
+    "definizione_completa": "Interrogativo 'dove?'.",
+    "en": null
+  },
+  "come": {
+    "bisiac": "come",
+    "it": ["come"],
+    "pos": "avv. inter.",
+    "definizione_completa": "Interrogativo 'come?'.",
+    "en": null
+  },
+  "quanto": {
+    "bisiac": "cuanto",
+    "it": ["quanto"],
+    "pos": "avv. inter.",
+    "definizione_completa": "Interrogativo 'quanto?'.",
+    "en": null
+  },
+  "andare": {
+    "bisiac": "ndar",
+    "it": ["andare"],
+    "pos": "v.",
+    "definizione_completa": "Verbo 'andare'.",
+    "en": null
+  },
+  "sapere": {
+    "bisiac": "saver",
+    "it": ["sapere"],
+    "pos": "v.",
+    "definizione_completa": "Verbo 'sapere'.",
+    "en": null
+  },
+  "vedere": {
+    "bisiac": "veder",
+    "it": ["vedere"],
+    "pos": "v.",
+    "definizione_completa": "Verbo 'vedere'.",
+    "en": null
+  },
+  "giorno": {
+    "bisiac": "giorno",
+    "it": ["giorno"],
+    "pos": "s. m.",
+    "definizione_completa": "Giorno.",
+    "en": null
+  },
+  "notte": {
+    "bisiac": "note",
+    "it": ["notte"],
+    "pos": "s. f.",
+    "definizione_completa": "Notte.",
+    "en": null
+  },
+  "oggi": {
+    "bisiac": "ancò",
+    "it": ["oggi"],
+    "pos": "avv.",
+    "definizione_completa": "Oggi.",
+    "en": null
+  },
+  "ieri": {
+    "bisiac": "ieri",
+    "it": ["ieri"],
+    "pos": "avv.",
+    "definizione_completa": "Ieri.",
+    "en": null
+  },
+  "domani": {
+    "bisiac": "doman",
+    "it": ["domani"],
+    "pos": "avv.",
+    "definizione_completa": "Domani.",
+    "en": null
+  },
+  "casa": {
+    "bisiac": "casa",
+    "it": ["casa"],
+    "pos": "s. f.",
+    "definizione_completa": "Casa.",
+    "en": null
+  },
+  "pane": {
+    "bisiac": "pan",
+    "it": ["pane"],
+    "pos": "s. m.",
+    "definizione_completa": "Pane.",
+    "en": null
+  },
+  "acqua": {
+    "bisiac": "acqua",
+    "it": ["acqua"],
+    "pos": "s. f.",
+    "definizione_completa": "Acqua.",
+    "en": null
+  },
+  "vino": {
+    "bisiac": "vin",
+    "it": ["vino"],
+    "pos": "s. m.",
+    "definizione_completa": "Vino.",
+    "en": null
+  },
+  "cane": {
+    "bisiac": "can",
+    "it": ["cane"],
+    "pos": "s. m.",
+    "definizione_completa": "Cane.",
+    "en": null
+  },
+  "bello": {
+    "bisiac": "bel",
+    "it": ["bello"],
+    "pos": "agg.",
+    "definizione_completa": "Bello.",
+    "en": null
+  },
+  "buono": {
+    "bisiac": "bon",
+    "it": ["buono"],
+    "pos": "agg.",
+    "definizione_completa": "Buono.",
+    "en": null
+  },
+  "caldo": {
+    "bisiac": "caldo",
+    "it": ["caldo"],
+    "pos": "agg.",
+    "definizione_completa": "Caldo.",
+    "en": null
+  },
+  "freddo": {
+    "bisiac": "fredo",
+    "it": ["freddo"],
+    "pos": "agg.",
+    "definizione_completa": "Freddo.",
+    "en": null
+  },
+  "sempre": {
+    "bisiac": "sempre",
+    "it": ["sempre"],
+    "pos": "avv.",
+    "definizione_completa": "Sempre.",
+    "en": null
+  },
+  "mai": {
+    "bisiac": "mai",
+    "it": ["mai"],
+    "pos": "avv.",
+    "definizione_completa": "Mai.",
+    "en": null
+  },
+  "spesso": {
+    "bisiac": "spesso",
+    "it": ["spesso"],
+    "pos": "avv.",
+    "definizione_completa": "Spesso.",
+    "en": null
+  },
+  "subito": {
+    "bisiac": "subito",
+    "it": ["subito"],
+    "pos": "avv.",
+    "definizione_completa": "Subito.",
+    "en": null
+  },
+  "ancora": {
+    "bisiac": "ancora",
+    "it": ["ancora"],
+    "pos": "avv.",
+    "definizione_completa": "Ancora.",
+    "en": null
+  },
+  "qui": {
+    "bisiac": "qua",
+    "it": ["qui", "qua"],
+    "pos": "avv.",
+    "definizione_completa": "Qui, qua.",
+    "en": null
+  },
+  "li": {
+    "bisiac": "là",
+    "it": ["lì", "là"],
+    "pos": "avv.",
+    "definizione_completa": "Lì, là.",
+    "en": null
+  },
+  "sotto": {
+    "bisiac": "soto",
+    "it": ["sotto"],
+    "pos": "avv.",
+    "definizione_completa": "Sotto.",
+    "en": null
+  },
+  "dentro": {
+    "bisiac": "drento",
+    "it": ["dentro"],
+    "pos": "avv.",
+    "definizione_completa": "Dentro.",
+    "en": null
+  },
+  "vicino": {
+    "bisiac": "vizìn",
+    "it": ["vicino"],
+    "pos": "avv.",
+    "definizione_completa": "Vicino.",
+    "en": null
+  },
+  "lontano": {
+    "bisiac": "lontan",
+    "it": ["lontano"],
+    "pos": "avv.",
+    "definizione_completa": "Lontano.",
+    "en": null
+  },
+  "bene": {
+    "bisiac": "ben",
+    "it": ["bene"],
+    "pos": "avv.",
+    "definizione_completa": "Bene.",
+    "en": null
+  },
+  "male": {
+    "bisiac": "mal",
+    "it": ["male"],
+    "pos": "avv.",
+    "definizione_completa": "Male.",
+    "en": null
+  },
+  "piano": {
+    "bisiac": "pian",
+    "it": ["piano"],
+    "pos": "avv.",
+    "definizione_completa": "Piano.",
+    "en": null
+  },
+  "forte": {
+    "bisiac": "forte",
+    "it": ["forte"],
+    "pos": "avv.",
+    "definizione_completa": "Forte.",
+    "en": null
+  },
+  "insieme": {
+    "bisiac": "insieme",
+    "it": ["insieme"],
+    "pos": "avv.",
+    "definizione_completa": "Insieme.",
+    "en": null
+  },
+  "quindi": {
+    "bisiac": "quindi",
+    "it": ["quindi"],
+    "pos": "cong.",
+    "definizione_completa": "Quindi.",
+    "en": null
+  },
+  "pero": {
+    "bisiac": "però",
+    "it": ["però"],
+    "pos": "cong.",
+    "definizione_completa": "Però.",
+    "en": null
+  },
+  "invece": {
+    "bisiac": "inveze",
+    "it": ["invece"],
+    "pos": "cong.",
+    "definizione_completa": "Invece.",
+    "en": null
+  },
+  "comunque": {
+    "bisiac": "comunque",
+    "it": ["comunque"],
+    "pos": "cong.",
+    "definizione_completa": "Comunque.",
+    "en": null
+  },
+  "prima": {
+    "bisiac": "prima",
+    "it": ["prima"],
+    "pos": "avv.",
+    "definizione_completa": "Prima.",
+    "en": null
+  },
+  "dopo": {
+    "bisiac": "dopo",
+    "it": ["dopo"],
+    "pos": "avv.",
+    "definizione_completa": "Dopo.",
+    "en": null
+  },
+  "presto": {
+    "bisiac": "presto",
+    "it": ["presto"],
+    "pos": "avv.",
+    "definizione_completa": "Presto.",
+    "en": null
+  },
+  "tardi": {
+    "bisiac": "tardi",
+    "it": ["tardi"],
+    "pos": "avv.",
+    "definizione_completa": "Tardi.",
+    "en": null
+  },
+  "tornare": {
+    "bisiac": "tornar",
+    "it": ["tornare"],
+    "pos": "v.",
+    "definizione_completa": "Tornare.",
+    "en": null
+  },
+  "uscire": {
+    "bisiac": "ninsir fora",
+    "it": ["uscire"],
+    "pos": "v.",
+    "definizione_completa": "Uscire.",
+    "en": null
+  },
+  "entrare": {
+    "bisiac": "ninsir drento",
+    "it": ["entrare"],
+    "pos": "v.",
+    "definizione_completa": "Entrare.",
+    "en": null
+  },
+  "trovare": {
+    "bisiac": "trovar",
+    "it": ["trovare"],
+    "pos": "v.",
+    "definizione_completa": "Trovare.",
+    "en": null
+  },
+  "chiedere": {
+    "bisiac": "domandar",
+    "it": ["chiedere"],
+    "pos": "v.",
+    "definizione_completa": "Chiedere.",
+    "en": null
+  },
+  "capire": {
+    "bisiac": "capir",
+    "it": ["capire"],
+    "pos": "v.",
+    "definizione_completa": "Capire.",
+    "en": null
+  },
+  "finire": {
+    "bisiac": "finir",
+    "it": ["finire"],
+    "pos": "v.",
+    "definizione_completa": "Finire.",
+    "en": null
+  },
+  "iniziare": {
+    "bisiac": "scominsiar",
+    "it": ["iniziare"],
+    "pos": "v.",
+    "definizione_completa": "Iniziare.",
+    "en": null
+  },
+  "lavorare": {
+    "bisiac": "lavorar",
+    "it": ["lavorare"],
+    "pos": "v.",
+    "definizione_completa": "Lavorare.",
+    "en": null
+  },
+  "gente": {
+    "bisiac": "gente",
+    "it": ["gente"],
+    "pos": "s. f.",
+    "definizione_completa": "Gente.",
+    "en": null
+  },
+  "mondo": {
+    "bisiac": "mondo",
+    "it": ["mondo"],
+    "pos": "s. m.",
+    "definizione_completa": "Mondo.",
+    "en": null
+  },
+  "vita": {
+    "bisiac": "vita",
+    "it": ["vita"],
+    "pos": "s. f.",
+    "definizione_completa": "Vita.",
+    "en": null
+  },
+  "lavoro": {
+    "bisiac": "lavoro",
+    "it": ["lavoro"],
+    "pos": "s. m.",
+    "definizione_completa": "Lavoro.",
+    "en": null
+  },
+  "amico": {
+    "bisiac": "amigo",
+    "it": ["amico"],
+    "pos": "s. m.",
+    "definizione_completa": "Amico.",
+    "en": null
+  },
+  "amica": {
+    "bisiac": "amiga",
+    "it": ["amica"],
+    "pos": "s. f.",
+    "definizione_completa": "Amica.",
+    "en": null
+  },
+  "problema": {
+    "bisiac": "problema",
+    "it": ["problema"],
+    "pos": "s. m.",
+    "definizione_completa": "Problema.",
+    "en": null
+  },
+  "paura": {
+    "bisiac": "paura",
+    "it": ["paura"],
+    "pos": "s. f.",
+    "definizione_completa": "Paura.",
+    "en": null
+  },
+  "stesso": {
+    "bisiac": "stesso",
+    "it": ["stesso", "stessa"],
+    "pos": "agg.",
+    "definizione_completa": "Stesso/a.",
+    "en": null
+  },
+  "altro": {
+    "bisiac": "altro",
+    "it": ["altro", "altra"],
+    "pos": "agg.",
+    "definizione_completa": "Altro/a.",
+    "en": null
+  },
+  "poco": {
+    "bisiac": "poco",
+    "it": ["poco"],
+    "pos": "agg./avv.",
+    "definizione_completa": "Poco.",
+    "en": null
+  },
+  "facile": {
+    "bisiac": "facile",
+    "it": ["facile"],
+    "pos": "agg.",
+    "definizione_completa": "Facile.",
+    "en": null
+  },
+  "difficile": {
+    "bisiac": "dificile",
+    "it": ["difficile"],
+    "pos": "agg.",
+    "definizione_completa": "Difficile.",
+    "en": null
+  },
+  "contento": {
+    "bisiac": "contento",
+    "it": ["contento", "contenta"],
+    "pos": "agg.",
+    "definizione_completa": "Contento/a.",
+    "en": null
+  },
+  "stanco": {
+    "bisiac": "straco",
+    "it": ["stanco", "stanca"],
+    "pos": "agg.",
+    "definizione_completa": "Stanco/a.",
+    "en": null
+  }
+}

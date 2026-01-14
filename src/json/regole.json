@@ -1,0 +1,470 @@
+[
+  {
+    "it": "ci sono",
+    "bisiac": "ghe xe"
+  },
+  {
+    "it": "c'è",
+    "bisiac": "ghe xe"
+  },
+  {
+    "it": "io sono",
+    "bisiac": "mi son"
+  },
+  {
+    "it": "tu sei",
+    "bisiac": "ti te xe"
+  },
+  {
+    "it": "che sei",
+    "bisiac": "che te son"
+  },
+  {
+    "it": "lui è",
+    "bisiac": "el xe"
+  },
+  {
+    "it": "lei è",
+    "bisiac": "la xe"
+  },
+  {
+    "it": "noi siamo",
+    "bisiac": "noi semo"
+  },
+  {
+    "it": "voi siete",
+    "bisiac": "voi sè"
+  },
+  {
+    "it": "loro sono",
+    "bisiac": "lori i xe"
+  },
+  {
+    "it": "io ho",
+    "bisiac": "mi go"
+  },
+  {
+    "it": "tu hai",
+    "bisiac": "ti te ga"
+  },
+  {
+    "it": "lui ha",
+    "bisiac": "el ga"
+  },
+  {
+    "it": "lei ha",
+    "bisiac": "la ga"
+  },
+  {
+    "it": "noi abbiamo",
+    "bisiac": "noi gavemo"
+  },
+  {
+    "it": "voi avete",
+    "bisiac": "voi gavè"
+  },
+  {
+    "it": "loro hanno",
+    "bisiac": "lori i ga"
+  },
+  {
+    "it": "io posso",
+    "bisiac": "mi poso"
+  },
+  {
+    "it": "tu puoi",
+    "bisiac": "ti te pol"
+  },
+  {
+    "it": "lui può",
+    "bisiac": "el pol"
+  },
+  {
+    "it": "noi possiamo",
+    "bisiac": "noi podemo"
+  },
+  {
+    "it": "voi potete",
+    "bisiac": "voi podè"
+  },
+  {
+    "it": "loro possono",
+    "bisiac": "lori i pol"
+  },
+  {
+    "it": "io voglio",
+    "bisiac": "mi voio"
+  },
+  {
+    "it": "tu vuoi",
+    "bisiac": "ti te vol"
+  },
+  {
+    "it": "lui vuole",
+    "bisiac": "el vol"
+  },
+  {
+    "it": "noi vogliamo",
+    "bisiac": "noi volemo"
+  },
+  {
+    "it": "voi volete",
+    "bisiac": "voi volè"
+  },
+  {
+    "it": "loro vogliono",
+    "bisiac": "lori i vol"
+  },
+  {
+    "it": "io faccio",
+    "bisiac": "mi faso"
+  },
+  {
+    "it": "tu fai",
+    "bisiac": "ti te fa"
+  },
+  {
+    "it": "lui fa",
+    "bisiac": "el fa"
+  },
+  {
+    "it": "noi facciamo",
+    "bisiac": "noi fasemo"
+  },
+  {
+    "it": "voi fate",
+    "bisiac": "voi fasè"
+  },
+  {
+    "it": "loro fanno",
+    "bisiac": "lori i fa"
+  },
+  {
+    "it": "non",
+    "bisiac": "no"
+  },
+  {
+    "it": "per il",
+    "bisiac": "pal"
+  },
+  {
+    "it": "con il",
+    "bisiac": "col"
+  },
+  {
+    "it": "sul",
+    "bisiac": "sul"
+  },
+  {
+    "it": "nel",
+    "bisiac": "nel"
+  },
+  {
+    "it": "dal",
+    "bisiac": "dal"
+  },
+  {
+    "it": "al",
+    "bisiac": "al"
+  },
+  {
+    "it": "del",
+    "bisiac": "del"
+  },
+  {
+    "it": "mi piace",
+    "bisiac": "me tica"
+  },
+  {
+    "it": "ti dico",
+    "bisiac": "te digo"
+  },
+  {
+    "it": "lascia stare",
+    "bisiac": "lassa star"
+  },
+  {
+    "it": "lascia perdere",
+    "bisiac": "lassa star"
+  },
+  {
+    "it": "cosa c'è",
+    "bisiac": "cossa ghe xe"
+  },
+  {
+    "it": "cosa fai",
+    "bisiac": "cossa te fa"
+  },
+  {
+    "it": "dove vai",
+    "bisiac": "do te va"
+  },
+  {
+    "it": "come stai",
+    "bisiac": "come te sta"
+  },
+  {
+    "it": "non lo so",
+    "bisiac": "no lo so"
+  },
+  {
+    "it": "io sono stato",
+    "bisiac": "mi son stado"
+  },
+  {
+    "it": "tu sei stato",
+    "bisiac": "ti te xe stado"
+  },
+  {
+    "it": "lui è stato",
+    "bisiac": "el xe stado"
+  },
+  {
+    "it": "lei è stata",
+    "bisiac": "la xe stada"
+  },
+  {
+    "it": "noi siamo stati",
+    "bisiac": "noi semo stadi"
+  },
+  {
+    "it": "voi siete stati",
+    "bisiac": "voi sè stadi"
+  },
+  {
+    "it": "loro sono stati",
+    "bisiac": "lori i xe stadi"
+  },
+  {
+    "it": "io ho fatto",
+    "bisiac": "mi go fato"
+  },
+  {
+    "it": "tu hai fatto",
+    "bisiac": "ti te ga fato"
+  },
+  {
+    "it": "lui ha fatto",
+    "bisiac": "el ga fato"
+  },
+  {
+    "it": "io ho detto",
+    "bisiac": "mi go dito"
+  },
+  {
+    "it": "tu hai detto",
+    "bisiac": "ti te ga dito"
+  },
+  {
+    "it": "io ho visto",
+    "bisiac": "mi go visto"
+  },
+  {
+    "it": "io sono andato",
+    "bisiac": "mi son ndado"
+  },
+  {
+    "it": "lui è andato",
+    "bisiac": "el xe ndado"
+  },
+  {
+    "it": "ci sono",
+    "bisiac": "ghe xe"
+  },
+  {
+    "it": "c'è",
+    "bisiac": "ghe xe"
+  },
+  {
+    "it": "io sono",
+    "bisiac": "mi son"
+  },
+  {
+    "it": "tu sei",
+    "bisiac": "ti te xe"
+  },
+  {
+    "it": "che sei",
+    "bisiac": "che te son"
+  },
+  {
+    "it": "lui è",
+    "bisiac": "el xe"
+  },
+  {
+    "it": "lei è",
+    "bisiac": "la xe"
+  },
+  {
+    "it": "noi siamo",
+    "bisiac": "noi semo"
+  },
+  {
+    "it": "voi siete",
+    "bisiac": "voi sè"
+  },
+  {
+    "it": "loro sono",
+    "bisiac": "lori i xe"
+  },
+  {
+    "it": "io ho",
+    "bisiac": "mi go"
+  },
+  {
+    "it": "tu hai",
+    "bisiac": "ti te ga"
+  },
+  {
+    "it": "lui ha",
+    "bisiac": "el ga"
+  },
+  {
+    "it": "lei ha",
+    "bisiac": "la ga"
+  },
+  {
+    "it": "noi abbiamo",
+    "bisiac": "noi gavemo"
+  },
+  {
+    "it": "voi avete",
+    "bisiac": "voi gavè"
+  },
+  {
+    "it": "loro hanno",
+    "bisiac": "lori i ga"
+  },
+  {
+    "it": "io posso",
+    "bisiac": "mi poso"
+  },
+  {
+    "it": "tu puoi",
+    "bisiac": "ti te pol"
+  },
+  {
+    "it": "lui può",
+    "bisiac": "el pol"
+  },
+  {
+    "it": "noi possiamo",
+    "bisiac": "noi podemo"
+  },
+  {
+    "it": "voi potete",
+    "bisiac": "voi podè"
+  },
+  {
+    "it": "loro possono",
+    "bisiac": "lori i pol"
+  },
+  {
+    "it": "io voglio",
+    "bisiac": "mi voio"
+  },
+  {
+    "it": "tu vuoi",
+    "bisiac": "ti te vol"
+  },
+  {
+    "it": "lui vuole",
+    "bisiac": "el vol"
+  },
+  {
+    "it": "noi vogliamo",
+    "bisiac": "noi volemo"
+  },
+  {
+    "it": "voi volete",
+    "bisiac": "voi volè"
+  },
+  {
+    "it": "loro vogliono",
+    "bisiac": "lori i vol"
+  },
+  {
+    "it": "io faccio",
+    "bisiac": "mi faso"
+  },
+  {
+    "it": "tu fai",
+    "bisiac": "ti te fa"
+  },
+  {
+    "it": "lui fa",
+    "bisiac": "el fa"
+  },
+  {
+    "it": "noi facciamo",
+    "bisiac": "noi fasemo"
+  },
+  {
+    "it": "voi fate",
+    "bisiac": "voi fasè"
+  },
+  {
+    "it": "loro fanno",
+    "bisiac": "lori i fa"
+  },
+  {
+    "it": "andiamo!",
+    "bisiac": "ndemo!"
+  },
+  {
+    "it": "guarda!",
+    "bisiac": "varda!"
+  },
+  {
+    "it": "ascolta!",
+    "bisiac": "scolta!"
+  },
+  {
+    "it": "non",
+    "bisiac": "no"
+  },
+  {
+    "it": "per il",
+    "bisiac": "pal"
+  },
+  {
+    "it": "con il",
+    "bisiac": "col"
+  },
+  {
+    "it": "sul",
+    "bisiac": "sul"
+  },
+  {
+    "it": "nel",
+    "bisiac": "nel"
+  },
+  {
+    "it": "dal",
+    "bisiac": "dal"
+  },
+  {
+    "it": "al",
+    "bisiac": "al"
+  },
+  {
+    "it": "del",
+    "bisiac": "del"
+  },
+  {
+    "it": "mi piace",
+    "bisiac": "me tica"
+  },
+  {
+    "it": "ti dico",
+    "bisiac": "te digo"
+  },
+  {
+    "it": "dammi",
+    "bisiac": "dame"
+  },
+  {
+    "it": "dimmi",
+    "bisiac": "dime"
+  }
+]

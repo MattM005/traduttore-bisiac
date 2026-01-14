@@ -1,0 +1,43 @@
+body {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+h1 {
+    text-align: center;
+}
+a img {
+    border-style: none;
+}
+table {
+    border-style: solid;
+    border-width: 1px;
+}
+table td {
+    border-style: solid;
+    border-width: 1px;
+}
+table th {
+    border-style: solid;
+    border-width: 1px;
+}
+table th[scope="row"] {
+    text-align: justify;
+}
+p {
+    text-align: justify;
+}
+html *[lang="la"] {
+    font-style: italic;
+}
+abbr[title]:after {
+    content: " (" attr(title) ")";
+}
+@media screen and (min-width: 1025px), (hover: hover) { /* basterebbe (hover: hover) ma è supportato solo da Chrome al momento */
+    abbr[title] {
+        border-bottom: 1px dotted;
+        cursor: help;
+    }
+    abbr[title]:after {
+        content: "";
+    }
+}
